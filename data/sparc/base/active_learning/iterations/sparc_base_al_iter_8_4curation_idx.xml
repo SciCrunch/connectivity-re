@@ -1,0 +1,451 @@
+<index>
+  <!--Created by bnlp.re.sparc.PredictionResultPreparer at Thu Feb 18 17:33:16 PST 2021-->
+  <file xml="" in="" out="">
+    <document idx="11527" PMID="PMC7495982">
+      <sentence>
+        <text idx="1">23 At necropsy, the heart, treated lung lobes, and adjacent esophagus and vagus nerves were examined.</text>
+        <pt idx="1" />
+        <ne start="20" end="25" type="structure" status="machine" />
+        <ne start="35" end="39" type="structure" status="machine" />
+        <ne start="74" end="79" type="structure" status="machine" />
+        <base-frame type="anatomical-connectivity">
+          <slot start="20" end="25" type="structure" status="machine" />
+          <slot start="35" end="39" type="structure" status="machine" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="20" end="25" type="structure" status="machine" />
+          <slot start="74" end="79" type="structure" status="machine" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="35" end="39" type="structure" status="machine" />
+          <slot start="74" end="79" type="structure" status="machine" />
+        </base-frame>
+      </sentence>
+    </document>
+    <document idx="14022" PMID="PMC6647275">
+      <sentence>
+        <text idx="5">It has been reported that trigeminal nerve components can induce oculocardiac reflex, although their relation to the vagus nerve is not known [88].</text>
+        <pt idx="5" />
+        <ne start="26" end="42" type="structure" status="machine" />
+        <ne start="117" end="128" type="structure" status="machine" />
+        <base-frame type="anatomical-connectivity">
+          <slot start="26" end="42" type="structure" status="machine" />
+          <slot start="117" end="128" type="structure" status="machine" />
+        </base-frame>
+      </sentence>
+    </document>
+    <document idx="15803" PMID="PMC7006056">
+      <sentence>
+        <text idx="1">Participants are taught about the vagus nerve, heart rate variability and their connections to health outcomes.</text>
+        <pt idx="1" />
+        <ne start="34" end="45" type="structure" status="machine" />
+        <ne start="47" end="52" type="structure" status="machine" />
+        <base-frame type="anatomical-connectivity">
+          <slot start="34" end="45" type="structure" status="machine" />
+          <slot start="47" end="52" type="structure" status="machine" />
+        </base-frame>
+      </sentence>
+    </document>
+    <document idx="17030" PMID="PMC4824786">
+      <sentence>
+        <text idx="1">Testosterone also influences AVP levels in brain regions such as the bed nucleus of the stria terminalis and the hypothalamus, where AVP projections are prominent, and coordinated reactions between these regions and the amygdala have been detected after affective experiences (Albers, 2012).</text>
+        <pt idx="1" />
+        <ne start="43" end="48" type="structure" status="machine" />
+        <ne start="94" end="104" type="structure" status="machine" />
+        <ne start="113" end="125" type="structure" status="machine" />
+        <base-frame type="anatomical-connectivity">
+          <slot start="43" end="48" type="structure" status="machine" />
+          <slot start="94" end="104" type="structure" status="machine" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="43" end="48" type="structure" status="machine" />
+          <slot start="113" end="125" type="structure" status="machine" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="94" end="104" type="structure" status="machine" />
+          <slot start="113" end="125" type="structure" status="machine" />
+        </base-frame>
+      </sentence>
+    </document>
+    <document idx="19170" PMID="PMC4685369">
+      <sentence>
+        <text idx="0">3, 5The phrenic nerve dysfunction leads to the paradoxical movement of the diaphragm during inspiration and expiration, preventing not only the expansion of the collapsed lower lobe of the involved lung but also the efficient inflation of the upper lobe of the same lung.</text>
+        <pt idx="0" />
+        <ne start="8" end="21" type="structure" status="machine" />
+        <ne start="75" end="84" type="structure" status="machine" />
+        <ne start="198" end="202" type="structure" status="machine" />
+        <ne start="266" end="270" type="structure" status="machine" />
+        <base-frame type="anatomical-connectivity">
+          <slot start="8" end="21" type="structure" status="machine" />
+          <slot start="75" end="84" type="structure" status="machine" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="8" end="21" type="structure" status="machine" />
+          <slot start="198" end="202" type="structure" status="machine" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="8" end="21" type="structure" status="machine" />
+          <slot start="266" end="270" type="structure" status="machine" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="75" end="84" type="structure" status="machine" />
+          <slot start="198" end="202" type="structure" status="machine" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="75" end="84" type="structure" status="machine" />
+          <slot start="266" end="270" type="structure" status="machine" />
+        </base-frame>
+      </sentence>
+    </document>
+    <document idx="33771" PMID="PMC6032287">
+      <sentence>
+        <text idx="2">In addition to the hypothalamus, other areas expressed phoenixin immunoreactivity (IR), such as the substantia nigra, Edinger-Westphal nucleus, NTS, dorsal motor nucleus of the vagus, and area postrema with moderate intensity [11].</text>
+        <pt idx="2" />
+        <ne start="19" end="31" type="structure" status="machine" />
+        <ne start="177" end="182" type="structure" status="machine" />
+        <ne start="188" end="201" type="structure" status="machine" />
+        <base-frame type="no-relation">
+          <slot start="19" end="31" type="structure" status="machine" />
+          <slot start="177" end="182" type="structure" status="machine" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="19" end="31" type="structure" status="machine" />
+          <slot start="188" end="201" type="structure" status="machine" />
+        </base-frame>
+        <base-frame type="anatomical-connectivity">
+          <slot start="177" end="182" type="structure" status="machine" />
+          <slot start="188" end="201" type="structure" status="machine" />
+        </base-frame>
+      </sentence>
+    </document>
+    <document idx="64654" PMID="PMC6048243">
+      <sentence>
+        <text idx="6">The primary output of the central autonomic network is the sympathetic and parasympathetic activity sent to the heart via the stellate ganglia and vagus nerve.</text>
+        <pt idx="6" />
+        <ne start="112" end="117" type="structure" status="machine" />
+        <ne start="147" end="158" type="structure" status="machine" />
+        <base-frame type="anatomical-connectivity">
+          <slot start="112" end="117" type="structure" status="machine" />
+          <slot start="147" end="158" type="structure" status="machine" />
+        </base-frame>
+      </sentence>
+    </document>
+    <document idx="66669" PMID="PMC4166902">
+      <sentence>
+        <text idx="0">Ghrelin indirectly activates the hypothalamus through the vagus nerve which acts on the nucleus of the solitary tract in the brainstem which then projects to the arcuate nucleus of the hypothalamus (Date et al., 2002).</text>
+        <pt idx="0" />
+        <ne start="33" end="45" type="structure" status="machine" />
+        <ne start="58" end="69" type="structure" status="machine" />
+        <ne start="88" end="117" type="structure" status="machine" />
+        <ne start="125" end="134" type="structure" status="machine" />
+        <ne start="185" end="197" type="structure" status="machine" />
+        <base-frame type="no-relation">
+          <slot start="33" end="45" type="structure" status="machine" />
+          <slot start="58" end="69" type="structure" status="machine" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="33" end="45" type="structure" status="machine" />
+          <slot start="88" end="117" type="structure" status="machine" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="33" end="45" type="structure" status="machine" />
+          <slot start="125" end="134" type="structure" status="machine" />
+        </base-frame>
+        <base-frame type="anatomical-connectivity">
+          <slot start="58" end="69" type="structure" status="machine" />
+          <slot start="88" end="117" type="structure" status="machine" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="58" end="69" type="structure" status="machine" />
+          <slot start="125" end="134" type="structure" status="machine" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="58" end="69" type="structure" status="machine" />
+          <slot start="185" end="197" type="structure" status="machine" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="88" end="117" type="structure" status="machine" />
+          <slot start="125" end="134" type="structure" status="machine" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="88" end="117" type="structure" status="machine" />
+          <slot start="185" end="197" type="structure" status="machine" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="125" end="134" type="structure" status="machine" />
+          <slot start="185" end="197" type="structure" status="machine" />
+        </base-frame>
+      </sentence>
+    </document>
+    <document idx="72456" PMID="PMC5837719">
+      <sentence>
+        <text idx="1">Figure. 6Individual and group mean average neuron size/area in the (A) superior cervical ganglion and (B) cervicothoracic ganglion in monkeys administered vehicle (controls) or tanezumab at 1.2 mg/kg/Q8W.</text>
+        <pt idx="1" />
+        <ne start="71" end="97" type="structure" status="machine" />
+        <ne start="106" end="130" type="structure" status="machine" />
+        <base-frame type="anatomical-connectivity">
+          <slot start="71" end="97" type="structure" status="machine" />
+          <slot start="106" end="130" type="structure" status="machine" />
+        </base-frame>
+      </sentence>
+    </document>
+    <document idx="82954" PMID="PMC5321710">
+      <sentence>
+        <text idx="6">In addition to the soma staining, MFSD1 labelled projections seen in the hippocampus (Fig. 5k, m) and cells in midbrain areas like the red nucleus (Fig. 5l), together with cells in brainstem areas such as the facial nucleus (Fig. 5n).</text>
+        <pt idx="6" />
+        <ne start="111" end="119" type="structure" status="machine" />
+        <ne start="135" end="146" type="structure" status="machine" />
+        <ne start="181" end="190" type="structure" status="machine" />
+        <ne start="209" end="223" type="structure" status="machine" />
+        <ne start="230" end="232" type="structure" status="machine" />
+        <base-frame type="no-relation">
+          <slot start="111" end="119" type="structure" status="machine" />
+          <slot start="135" end="146" type="structure" status="machine" />
+        </base-frame>
+        <base-frame type="anatomical-connectivity">
+          <slot start="111" end="119" type="structure" status="machine" />
+          <slot start="181" end="190" type="structure" status="machine" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="111" end="119" type="structure" status="machine" />
+          <slot start="209" end="223" type="structure" status="machine" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="111" end="119" type="structure" status="machine" />
+          <slot start="230" end="232" type="structure" status="machine" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="135" end="146" type="structure" status="machine" />
+          <slot start="181" end="190" type="structure" status="machine" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="135" end="146" type="structure" status="machine" />
+          <slot start="209" end="223" type="structure" status="machine" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="135" end="146" type="structure" status="machine" />
+          <slot start="230" end="232" type="structure" status="machine" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="181" end="190" type="structure" status="machine" />
+          <slot start="209" end="223" type="structure" status="machine" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="181" end="190" type="structure" status="machine" />
+          <slot start="230" end="232" type="structure" status="machine" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="209" end="223" type="structure" status="machine" />
+          <slot start="230" end="232" type="structure" status="machine" />
+        </base-frame>
+      </sentence>
+    </document>
+    <document idx="91183" PMID="PMC7105733">
+      <sentence>
+        <text idx="0">The vagus nerve provides a direct neural connection between the gut and the brain and may play an important role.</text>
+        <pt idx="0" />
+        <ne start="4" end="15" type="structure" status="machine" />
+        <ne start="76" end="81" type="structure" status="machine" />
+        <base-frame type="anatomical-connectivity">
+          <slot start="4" end="15" type="structure" status="machine" />
+          <slot start="76" end="81" type="structure" status="machine" />
+        </base-frame>
+      </sentence>
+    </document>
+    <document idx="101274" PMID="PMC6026652">
+      <sentence>
+        <text idx="2">Interaction of the vagus nerve with tissue-resident macrophages is not always direct; in the gut, there is the participation of intervening myenteric neurons scattered around the muscularis layer, whereas the spleen shows no evidence of vagal innervation (125).</text>
+        <pt idx="2" />
+        <ne start="19" end="30" type="structure" status="machine" />
+        <ne start="209" end="215" type="structure" status="machine" />
+        <base-frame type="anatomical-connectivity">
+          <slot start="19" end="30" type="structure" status="machine" />
+          <slot start="209" end="215" type="structure" status="machine" />
+        </base-frame>
+      </sentence>
+    </document>
+    <document idx="114044" PMID="PMC5747122">
+      <sentence>
+        <text idx="4">Electromyographic detection is to be performed using Neurocare-C electromyography (Neurocare Center Co., Shanghai, China) and evoked potential instruments to determine MCV and SCV of the bilateral median nerve, ulnar nerve, common peroneal nerve, and tibial nerve.</text>
+        <pt idx="4" />
+        <ne start="197" end="209" type="structure" status="machine" />
+        <ne start="211" end="222" type="structure" status="machine" />
+        <ne start="251" end="263" type="structure" status="machine" />
+        <base-frame type="no-relation">
+          <slot start="197" end="209" type="structure" status="machine" />
+          <slot start="211" end="222" type="structure" status="machine" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="197" end="209" type="structure" status="machine" />
+          <slot start="251" end="263" type="structure" status="machine" />
+        </base-frame>
+        <base-frame type="anatomical-connectivity">
+          <slot start="211" end="222" type="structure" status="machine" />
+          <slot start="251" end="263" type="structure" status="machine" />
+        </base-frame>
+      </sentence>
+    </document>
+    <document idx="116277" PMID="PMC5392551">
+      <sentence>
+        <text idx="1">The colon reached into the subdiaphragmatic area from 3 cm to 8 cm (from the liver border), never crossing the apex of the phrenic dome.</text>
+        <pt idx="1" />
+        <ne start="4" end="9" type="structure" status="machine" />
+        <ne start="77" end="82" type="structure" status="machine" />
+        <ne start="123" end="130" type="structure" status="machine" />
+        <base-frame type="no-relation">
+          <slot start="4" end="9" type="structure" status="machine" />
+          <slot start="77" end="82" type="structure" status="machine" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="4" end="9" type="structure" status="machine" />
+          <slot start="123" end="130" type="structure" status="machine" />
+        </base-frame>
+        <base-frame type="anatomical-connectivity">
+          <slot start="77" end="82" type="structure" status="machine" />
+          <slot start="123" end="130" type="structure" status="machine" />
+        </base-frame>
+      </sentence>
+    </document>
+    <document idx="121872" PMID="PMC5838781">
+      <sentence>
+        <text idx="0">Intradetrusor botulinum toxin A, percutaneous tibial nerve stimulation (PTNS), and sacral nerve stimulation (SNS) may be recommended as third-line therapies to patients who are refractory to behavioral and pharmacologic therapies (6).</text>
+        <pt idx="0" />
+        <ne start="46" end="58" type="structure" status="machine" />
+        <ne start="83" end="95" type="structure" status="machine" />
+        <base-frame type="anatomical-connectivity">
+          <slot start="46" end="58" type="structure" status="machine" />
+          <slot start="83" end="95" type="structure" status="machine" />
+        </base-frame>
+      </sentence>
+    </document>
+    <document idx="131464" PMID="PMC4092895">
+      <sentence>
+        <text idx="0">Neuronal information is transported via the autonomic nerve (especially the vagus) from chemoreceptors in the internal visceral organs.</text>
+        <pt idx="0" />
+        <ne start="44" end="59" type="structure" status="machine" />
+        <ne start="88" end="102" type="structure" status="machine" />
+        <base-frame type="anatomical-connectivity">
+          <slot start="44" end="59" type="structure" status="machine" />
+          <slot start="88" end="102" type="structure" status="machine" />
+        </base-frame>
+      </sentence>
+    </document>
+    <document idx="133074" PMID="PMC3687571">
+      <sentence>
+        <text idx="3">Moreover the recent discovery of proton pump activity in seromucinous glands of the human larynx opens up new possibilities not only for treatment but for identifying the pathogenesis of lesions in tissue laryngeal nerve endings, even without LPR [43].</text>
+        <pt idx="3" />
+        <ne start="90" end="96" type="structure" status="machine" />
+        <ne start="205" end="220" type="structure" status="machine" />
+        <base-frame type="anatomical-connectivity">
+          <slot start="90" end="96" type="structure" status="machine" />
+          <slot start="205" end="220" type="structure" status="machine" />
+        </base-frame>
+      </sentence>
+    </document>
+    <document idx="139733" PMID="PMC4419616">
+      <sentence>
+        <text idx="1">Hata and associates reported two left recurrent laryngeal nerve injuries and one phrenic nerve paralysis in 50 patients who underwent extensive mediastinal dissection.</text>
+        <pt idx="1" />
+        <ne start="33" end="63" type="structure" status="machine" />
+        <ne start="81" end="94" type="structure" status="machine" />
+        <base-frame type="anatomical-connectivity">
+          <slot start="33" end="63" type="structure" status="machine" />
+          <slot start="81" end="94" type="structure" status="machine" />
+        </base-frame>
+      </sentence>
+    </document>
+    <document idx="153961" PMID="PMC5895347">
+      <sentence>
+        <text idx="3">As for the Boehm et al study,[5] slight difference was observed for the tibial nerve at the medial malleolus and the sural nerve.</text>
+        <pt idx="3" />
+        <ne start="72" end="84" type="structure" status="machine" />
+        <ne start="117" end="128" type="structure" status="machine" />
+        <base-frame type="anatomical-connectivity">
+          <slot start="72" end="84" type="structure" status="machine" />
+          <slot start="117" end="128" type="structure" status="machine" />
+        </base-frame>
+      </sentence>
+    </document>
+    <document idx="160959" PMID="PMC5717316">
+      <sentence>
+        <text idx="1">4.3In patients with right atrial appendage pacing, atrial muscle bundles take considerable time to propagate the stimulation from right atrial appendage to the right atrial free wall then to the crista terminalis and whole right atrium and subsequently to the left atrium across the atrial septum.</text>
+        <pt idx="1" />
+        <ne start="202" end="212" type="structure" status="machine" />
+        <ne start="223" end="235" type="structure" status="machine" />
+        <ne start="260" end="271" type="structure" status="machine" />
+        <base-frame type="no-relation">
+          <slot start="202" end="212" type="structure" status="machine" />
+          <slot start="223" end="235" type="structure" status="machine" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="202" end="212" type="structure" status="machine" />
+          <slot start="260" end="271" type="structure" status="machine" />
+        </base-frame>
+        <base-frame type="anatomical-connectivity">
+          <slot start="223" end="235" type="structure" status="machine" />
+          <slot start="260" end="271" type="structure" status="machine" />
+        </base-frame>
+      </sentence>
+    </document>
+    <document idx="162149" PMID="PMC5567439">
+      <sentence>
+        <text idx="2">However the transcanal approach is limited anteriorly by the anterior canal wall and limitation would be expected in visualizing the labyrinthine portion of the geniculate ganglion and the labyrinthine facial nerve.</text>
+        <pt idx="2" />
+        <ne start="161" end="180" type="structure" status="machine" />
+        <ne start="202" end="214" type="structure" status="machine" />
+        <base-frame type="anatomical-connectivity">
+          <slot start="161" end="180" type="structure" status="machine" />
+          <slot start="202" end="214" type="structure" status="machine" />
+        </base-frame>
+      </sentence>
+    </document>
+    <document idx="184824" PMID="PMC6773908">
+      <sentence>
+        <text idx="2">Similarly, in his line-drawings of 19 human embryos and fetuses (CRL, 9–78 mm), Pearson [4] reported small groups of bipolar and multipolar ganglion cells along the proximal most part of the terminal nerve.</text>
+        <pt idx="2" />
+        <ne start="140" end="148" type="structure" status="machine" />
+        <ne start="191" end="205" type="structure" status="machine" />
+        <base-frame type="anatomical-connectivity">
+          <slot start="140" end="148" type="structure" status="machine" />
+          <slot start="191" end="205" type="structure" status="machine" />
+        </base-frame>
+      </sentence>
+    </document>
+    <document idx="185042" PMID="PMC6489053">
+      <sentence>
+        <text idx="1">Under the fluoroscopic view, for maxillary nerve block, a needle tip can be located right lateral to the foramen rotundum and pterygopalatine fossa; for mandibular nerve block, a needle tip can be placed at the midportion of the foramen ovale.</text>
+        <pt idx="1" />
+        <ne start="33" end="48" type="structure" status="machine" />
+        <ne start="153" end="169" type="structure" status="machine" />
+        <base-frame type="anatomical-connectivity">
+          <slot start="33" end="48" type="structure" status="machine" />
+          <slot start="153" end="169" type="structure" status="machine" />
+        </base-frame>
+      </sentence>
+    </document>
+    <document idx="187110" PMID="PMC7374656">
+      <sentence>
+        <text idx="0">Sympathetic ganglia play a major role in controlling cardiovascular functions, and in a study where SGCs in mouse superior cervical ganglion were stimulated selectively using DREADD, activation of SGCs increased the heart rate and contractility135.</text>
+        <pt idx="0" />
+        <ne start="114" end="140" type="structure" status="machine" />
+        <ne start="216" end="221" type="structure" status="machine" />
+        <base-frame type="anatomical-connectivity">
+          <slot start="114" end="140" type="structure" status="machine" />
+          <slot start="216" end="221" type="structure" status="machine" />
+        </base-frame>
+      </sentence>
+    </document>
+    <document idx="193047" PMID="PMC3823465">
+      <sentence>
+        <text idx="1">Stereological serial counts of surviving motor neurons were performed through the full extent of the facial nucleus for nuclei on both contralateral (uninjured) and ipsilateral (injured) to the axotomized facial nerve, in order to quantify the effect of drug treatment on axotomized motor neurons.</text>
+        <pt idx="1" />
+        <ne start="101" end="115" type="structure" status="machine" />
+        <ne start="205" end="217" type="structure" status="machine" />
+        <base-frame type="anatomical-connectivity">
+          <slot start="101" end="115" type="structure" status="machine" />
+          <slot start="205" end="217" type="structure" status="machine" />
+        </base-frame>
+      </sentence>
+    </document>
+  </file>
+</index>

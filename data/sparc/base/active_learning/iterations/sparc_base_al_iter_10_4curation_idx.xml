@@ -1,0 +1,519 @@
+<index>
+  <!--Created by bnlp.re.sparc.PredictionResultPreparer at Fri Feb 19 16:11:49 PST 2021-->
+  <file xml="" in="" out="">
+    <document idx="4221" PMID="PMC3510013">
+      <sentence>
+        <text idx="0">Regeneration in facial nuclei in the brain stem after facial nerve transection was evaluated at day 21 by retrograde axonal tracing with FluoroGold.</text>
+        <pt idx="0" />
+        <ne start="37" end="47" type="structure" status="machine" />
+        <ne start="54" end="66" type="structure" status="machine" />
+        <base-frame type="anatomical-connectivity">
+          <slot start="37" end="47" type="structure" status="machine" />
+          <slot start="54" end="66" type="structure" status="machine" />
+        </base-frame>
+      </sentence>
+    </document>
+    <document idx="10886" PMID="PMC7016359">
+      <sentence>
+        <text idx="8">The tibial nerve was examined 3 cm above the medial malleolus and the median nerve at the midpoint of the forearm.</text>
+        <pt idx="8" />
+        <ne start="4" end="16" type="structure" status="machine" />
+        <ne start="70" end="82" type="structure" status="machine" />
+        <base-frame type="anatomical-connectivity">
+          <slot start="4" end="16" type="structure" status="machine" />
+          <slot start="70" end="82" type="structure" status="machine" />
+        </base-frame>
+      </sentence>
+    </document>
+    <document idx="11926" PMID="PMC4197886">
+      <sentence>
+        <text idx="0">The key structure in the expression of cranial autonomic symptoms is the sphenopalatine ganglion (SPG), also known as the pterygopalatine ganglion.</text>
+        <pt idx="0" />
+        <ne start="73" end="96" type="structure" status="machine" />
+        <ne start="122" end="146" type="structure" status="machine" />
+        <base-frame type="anatomical-connectivity">
+          <slot start="73" end="96" type="structure" status="machine" />
+          <slot start="122" end="146" type="structure" status="machine" />
+        </base-frame>
+      </sentence>
+    </document>
+    <document idx="16993" PMID="PMC4179748">
+      <sentence>
+        <text idx="0">The vagus nerves are a major conduit though which afferent neurological signals from the heart and other visceral organs are relayed to the brain, including the baroreflex signals (De Lartique, 2014).</text>
+        <pt idx="0" />
+        <ne start="4" end="9" type="structure" status="machine" />
+        <ne start="89" end="94" type="structure" status="machine" />
+        <ne start="140" end="145" type="structure" status="machine" />
+        <base-frame type="no-relation">
+          <slot start="4" end="9" type="structure" status="machine" />
+          <slot start="89" end="94" type="structure" status="machine" />
+        </base-frame>
+        <base-frame type="anatomical-connectivity">
+          <slot start="4" end="9" type="structure" status="machine" />
+          <slot start="140" end="145" type="structure" status="machine" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="89" end="94" type="structure" status="machine" />
+          <slot start="140" end="145" type="structure" status="machine" />
+        </base-frame>
+      </sentence>
+    </document>
+    <document idx="25770" PMID="PMC5832978">
+      <sentence>
+        <text idx="4">To confirm the contribution of a neural relay, we utilized a neural blockade procedure (Fig. 1), and to examine the association of the GI tract, efferent vagus nerve activation was confirmed upon liver injury (Fig. 2) followed by analysis of serotonin levels and liver regeneration.</text>
+        <pt idx="4" />
+        <ne start="154" end="165" type="structure" status="machine" />
+        <ne start="196" end="201" type="structure" status="machine" />
+        <ne start="263" end="268" type="structure" status="machine" />
+        <base-frame type="anatomical-connectivity">
+          <slot start="154" end="165" type="structure" status="machine" />
+          <slot start="196" end="201" type="structure" status="machine" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="154" end="165" type="structure" status="machine" />
+          <slot start="263" end="268" type="structure" status="machine" />
+        </base-frame>
+      </sentence>
+    </document>
+    <document idx="29125" PMID="PMC7163931">
+      <sentence>
+        <text idx="2">Figure 1A schematic showing the location of hypoglossal motoneurons relative to medullary respiratory neuron groups with representative recordings from the hypoglossal nerve, a ventral respiratory group inspiratory neuron and the phrenic nerve in an adult decerebrate rat.</text>
+        <pt idx="2" />
+        <ne start="156" end="173" type="structure" status="machine" />
+        <ne start="230" end="243" type="structure" status="machine" />
+        <base-frame type="anatomical-connectivity">
+          <slot start="156" end="173" type="structure" status="machine" />
+          <slot start="230" end="243" type="structure" status="machine" />
+        </base-frame>
+      </sentence>
+    </document>
+    <document idx="33583" PMID="PMC6321279">
+      <sentence>
+        <text idx="0">Innervation of the nasal mucosa involves the olfactory nerve, which controls the sense of smell; branches of the trigeminus (V1 ophthalmic nerve and V2 maxillary nerve), which provide sensory information; autonomic fibers, which determine vasoconstriction and gland secretion; and motor nerves.</text>
+        <pt idx="0" />
+        <ne start="45" end="60" type="structure" status="machine" />
+        <ne start="113" end="123" type="structure" status="machine" />
+        <ne start="128" end="144" type="structure" status="machine" />
+        <base-frame type="no-relation">
+          <slot start="45" end="60" type="structure" status="machine" />
+          <slot start="113" end="123" type="structure" status="machine" />
+        </base-frame>
+        <base-frame type="anatomical-connectivity">
+          <slot start="45" end="60" type="structure" status="machine" />
+          <slot start="128" end="144" type="structure" status="machine" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="113" end="123" type="structure" status="machine" />
+          <slot start="128" end="144" type="structure" status="machine" />
+        </base-frame>
+      </sentence>
+    </document>
+    <document idx="40304" PMID="PMC6274907">
+      <sentence>
+        <text idx="2">Nonetheless, there is considerable evidence that the olfactory bulb, the ENS, the intermediolateral nucleus of the spinal cord and the dorsal motor nucleus of the vagus are the sites of early involvement [69,75,82,84].</text>
+        <pt idx="2" />
+        <ne start="53" end="67" type="structure" status="machine" />
+        <ne start="115" end="126" type="structure" status="machine" />
+        <ne start="163" end="168" type="structure" status="machine" />
+        <base-frame type="no-relation">
+          <slot start="53" end="67" type="structure" status="machine" />
+          <slot start="115" end="126" type="structure" status="machine" />
+        </base-frame>
+        <base-frame type="anatomical-connectivity">
+          <slot start="53" end="67" type="structure" status="machine" />
+          <slot start="163" end="168" type="structure" status="machine" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="115" end="126" type="structure" status="machine" />
+          <slot start="163" end="168" type="structure" status="machine" />
+        </base-frame>
+      </sentence>
+    </document>
+    <document idx="64401" PMID="PMC3195989">
+      <sentence>
+        <text idx="1">The levels of α1 in the basolateral amygdaloid nucleus [BLA; (C)] and bed nucleus of the stria terminalis (BST) (D), as well as the levels of α2 at all these sites (E–H), were similar between HADs and LADs.</text>
+        <pt idx="1" />
+        <ne start="24" end="54" type="structure" status="machine" />
+        <ne start="95" end="105" type="structure" status="machine" />
+        <base-frame type="anatomical-connectivity">
+          <slot start="24" end="54" type="structure" status="machine" />
+          <slot start="95" end="105" type="structure" status="machine" />
+        </base-frame>
+      </sentence>
+    </document>
+    <document idx="66458" PMID="PMC5487424">
+      <sentence>
+        <text idx="3">Many brain regions, such as the dorsal motor nucleus of the vagus, parabrachial nucleus, hypothalamus, amygdala, bed nucleus of the stria terminalis, and insular cortex, are known to receive direct neuronal fibers from the NTS (Puizillout, 2005).</text>
+        <pt idx="3" />
+        <ne start="5" end="10" type="structure" status="machine" />
+        <ne start="60" end="65" type="structure" status="machine" />
+        <ne start="113" end="148" type="structure" status="machine" />
+        <base-frame type="no-relation">
+          <slot start="5" end="10" type="structure" status="machine" />
+          <slot start="60" end="65" type="structure" status="machine" />
+        </base-frame>
+        <base-frame type="anatomical-connectivity">
+          <slot start="5" end="10" type="structure" status="machine" />
+          <slot start="113" end="148" type="structure" status="machine" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="60" end="65" type="structure" status="machine" />
+          <slot start="113" end="148" type="structure" status="machine" />
+        </base-frame>
+      </sentence>
+    </document>
+    <document idx="66471" PMID="PMC5681992">
+      <sentence>
+        <text idx="2">The vagal nerve projects to the nucleus of the solitary tract (NTS) in the brainstem, from where projections are directed toward other brain regions, e.g. the hypothalamus (the vagal-brainstem-hypothalamic pathway).</text>
+        <pt idx="2" />
+        <ne start="4" end="15" type="structure" status="machine" />
+        <ne start="32" end="61" type="structure" status="machine" />
+        <ne start="75" end="84" type="structure" status="machine" />
+        <ne start="135" end="140" type="structure" status="machine" />
+        <ne start="159" end="171" type="structure" status="machine" />
+        <base-frame type="no-relation">
+          <slot start="4" end="15" type="structure" status="machine" />
+          <slot start="32" end="61" type="structure" status="machine" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="4" end="15" type="structure" status="machine" />
+          <slot start="75" end="84" type="structure" status="machine" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="4" end="15" type="structure" status="machine" />
+          <slot start="135" end="140" type="structure" status="machine" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="4" end="15" type="structure" status="machine" />
+          <slot start="159" end="171" type="structure" status="machine" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="32" end="61" type="structure" status="machine" />
+          <slot start="75" end="84" type="structure" status="machine" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="32" end="61" type="structure" status="machine" />
+          <slot start="135" end="140" type="structure" status="machine" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="32" end="61" type="structure" status="machine" />
+          <slot start="159" end="171" type="structure" status="machine" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="75" end="84" type="structure" status="machine" />
+          <slot start="135" end="140" type="structure" status="machine" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="75" end="84" type="structure" status="machine" />
+          <slot start="159" end="171" type="structure" status="machine" />
+        </base-frame>
+        <base-frame type="anatomical-connectivity">
+          <slot start="135" end="140" type="structure" status="machine" />
+          <slot start="159" end="171" type="structure" status="machine" />
+        </base-frame>
+      </sentence>
+      <sentence>
+        <text idx="6">Taken together, bile acids in the intestine can signal to the brain by using GLP-1 as an intermediate molecule to activate vagal nerve afferents in the lamia propria and hepatic portal vein that project to the NTS in the hindbrain and subsequently to the hypothalamus.</text>
+        <pt idx="6" />
+        <ne start="62" end="67" type="structure" status="machine" />
+        <ne start="123" end="134" type="structure" status="machine" />
+        <ne start="170" end="189" type="structure" status="machine" />
+        <ne start="221" end="230" type="structure" status="machine" />
+        <ne start="255" end="267" type="structure" status="machine" />
+        <base-frame type="no-relation">
+          <slot start="62" end="67" type="structure" status="machine" />
+          <slot start="123" end="134" type="structure" status="machine" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="62" end="67" type="structure" status="machine" />
+          <slot start="170" end="189" type="structure" status="machine" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="62" end="67" type="structure" status="machine" />
+          <slot start="221" end="230" type="structure" status="machine" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="62" end="67" type="structure" status="machine" />
+          <slot start="255" end="267" type="structure" status="machine" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="123" end="134" type="structure" status="machine" />
+          <slot start="170" end="189" type="structure" status="machine" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="123" end="134" type="structure" status="machine" />
+          <slot start="221" end="230" type="structure" status="machine" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="123" end="134" type="structure" status="machine" />
+          <slot start="255" end="267" type="structure" status="machine" />
+        </base-frame>
+        <base-frame type="anatomical-connectivity">
+          <slot start="170" end="189" type="structure" status="machine" />
+          <slot start="221" end="230" type="structure" status="machine" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="170" end="189" type="structure" status="machine" />
+          <slot start="255" end="267" type="structure" status="machine" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="221" end="230" type="structure" status="machine" />
+          <slot start="255" end="267" type="structure" status="machine" />
+        </base-frame>
+      </sentence>
+    </document>
+    <document idx="67526" PMID="PMC3935387">
+      <sentence>
+        <text idx="3">Glucose-sensing neurons have been identified in the dorsal motor nucleus of the vagus (DMV) and the solitary tract nucleus (NTS) (Adachi et al., 1995).</text>
+        <pt idx="3" />
+        <ne start="80" end="85" type="structure" status="machine" />
+        <ne start="100" end="122" type="structure" status="machine" />
+        <base-frame type="anatomical-connectivity">
+          <slot start="80" end="85" type="structure" status="machine" />
+          <slot start="100" end="122" type="structure" status="machine" />
+        </base-frame>
+      </sentence>
+    </document>
+    <document idx="68635" PMID="PMC6107705">
+      <sentence>
+        <text idx="3">The vagus nerve functions as a brake slowing the heart, inhibiting the sympathetic and adrenal activity and ultimately reducing stress reactivity.</text>
+        <pt idx="3" />
+        <ne start="4" end="15" type="structure" status="machine" />
+        <ne start="49" end="54" type="structure" status="machine" />
+        <base-frame type="anatomical-connectivity">
+          <slot start="4" end="15" type="structure" status="machine" />
+          <slot start="49" end="54" type="structure" status="machine" />
+        </base-frame>
+      </sentence>
+    </document>
+    <document idx="72456" PMID="PMC5837719">
+      <sentence>
+        <text idx="2">Figure. 7Individual and group estimated total neuron counts in the (A) superior cervical ganglion and (B) cervicothoracic ganglion in monkeys administered vehicle (controls) or tanezumab at 1.2 mg/kg/Q8W.</text>
+        <pt idx="2" />
+        <ne start="71" end="97" type="structure" status="machine" />
+        <ne start="106" end="130" type="structure" status="machine" />
+        <base-frame type="anatomical-connectivity">
+          <slot start="71" end="97" type="structure" status="machine" />
+          <slot start="106" end="130" type="structure" status="machine" />
+        </base-frame>
+      </sentence>
+    </document>
+    <document idx="89648" PMID="PMC6970348">
+      <sentence>
+        <text idx="0">The femoral nerve was tested in the anterior mid-thigh, the saphenous nerve in the internal face of the leg, the peroneal nerve in the dorsal face of the foot, and the tibial nerve in the plantar face of the foot.</text>
+        <pt idx="0" />
+        <ne start="4" end="17" type="structure" status="machine" />
+        <ne start="60" end="75" type="structure" status="machine" />
+        <ne start="168" end="180" type="structure" status="machine" />
+        <base-frame type="no-relation">
+          <slot start="4" end="17" type="structure" status="machine" />
+          <slot start="60" end="75" type="structure" status="machine" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="4" end="17" type="structure" status="machine" />
+          <slot start="168" end="180" type="structure" status="machine" />
+        </base-frame>
+        <base-frame type="anatomical-connectivity">
+          <slot start="60" end="75" type="structure" status="machine" />
+          <slot start="168" end="180" type="structure" status="machine" />
+        </base-frame>
+      </sentence>
+    </document>
+    <document idx="95832" PMID="PMC3374460">
+      <sentence>
+        <text idx="1">They may also suffer from fever and anorexia, tremors and muscle stiffness, facial nerve palsy, paresis of the tongue, and dysphagia, as a result of affection of the cranial nerves.</text>
+        <pt idx="1" />
+        <ne start="76" end="88" type="structure" status="machine" />
+        <ne start="111" end="117" type="structure" status="machine" />
+        <ne start="166" end="180" type="structure" status="machine" />
+        <base-frame type="no-relation">
+          <slot start="76" end="88" type="structure" status="machine" />
+          <slot start="111" end="117" type="structure" status="machine" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="76" end="88" type="structure" status="machine" />
+          <slot start="166" end="180" type="structure" status="machine" />
+        </base-frame>
+        <base-frame type="anatomical-connectivity">
+          <slot start="111" end="117" type="structure" status="machine" />
+          <slot start="166" end="180" type="structure" status="machine" />
+        </base-frame>
+      </sentence>
+    </document>
+    <document idx="116379" PMID="PMC5769664">
+      <sentence>
+        <text idx="4">Also, CSA of the tibial nerve was larger in males than in females, both in the affected patients as well as controls.</text>
+        <pt idx="4" />
+        <ne start="6" end="9" type="structure" status="machine" />
+        <ne start="17" end="29" type="structure" status="machine" />
+        <base-frame type="anatomical-connectivity">
+          <slot start="6" end="9" type="structure" status="machine" />
+          <slot start="17" end="29" type="structure" status="machine" />
+        </base-frame>
+      </sentence>
+    </document>
+    <document idx="119230" PMID="PMC7174852">
+      <sentence>
+        <text idx="3">Furthermore, Lyme neuroborreliosis may affect the abducens nerve and very rarely the vestibulocochlear nerve, the optic nerve (optic neuritis, papilloedema), the oculomotor system (NN III, IV), the trigeminal nerve and the caudal cranial nerves (NN IX–XII) [41], [47], [53], [59].</text>
+        <pt idx="3" />
+        <ne start="50" end="64" type="structure" status="machine" />
+        <ne start="85" end="108" type="structure" status="machine" />
+        <ne start="114" end="125" type="structure" status="machine" />
+        <ne start="198" end="214" type="structure" status="machine" />
+        <base-frame type="anatomical-connectivity">
+          <slot start="50" end="64" type="structure" status="machine" />
+          <slot start="85" end="108" type="structure" status="machine" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="50" end="64" type="structure" status="machine" />
+          <slot start="114" end="125" type="structure" status="machine" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="50" end="64" type="structure" status="machine" />
+          <slot start="198" end="214" type="structure" status="machine" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="85" end="108" type="structure" status="machine" />
+          <slot start="114" end="125" type="structure" status="machine" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="85" end="108" type="structure" status="machine" />
+          <slot start="198" end="214" type="structure" status="machine" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="114" end="125" type="structure" status="machine" />
+          <slot start="198" end="214" type="structure" status="machine" />
+        </base-frame>
+      </sentence>
+    </document>
+    <document idx="121497" PMID="PMC4387136">
+      <sentence>
+        <text idx="1">12 The inferior gluteal vessel is accompanied by the internal pudendal vessels, the pudendal nerve, the posterior femoral cutaneous nerve, and the sciatic nerve.</text>
+        <pt idx="1" />
+        <ne start="84" end="98" type="structure" status="machine" />
+        <ne start="147" end="160" type="structure" status="machine" />
+        <base-frame type="anatomical-connectivity">
+          <slot start="84" end="98" type="structure" status="machine" />
+          <slot start="147" end="160" type="structure" status="machine" />
+        </base-frame>
+      </sentence>
+    </document>
+    <document idx="139007" PMID="PMC7211338">
+      <sentence>
+        <text idx="1">Tumors in Meckel’s cave are uncommon but the most frequent neoplasms at this site include trigeminal nerve sheath tumors, schwannomas, meningiomas, neurofibromas, nasopharyngeal carcinoma, and leptomeningeal metastases from solid organ malignancy (renal cell, lung, and breast) [4–7].</text>
+        <pt idx="1" />
+        <ne start="90" end="106" type="structure" status="machine" />
+        <ne start="260" end="264" type="structure" status="machine" />
+        <base-frame type="anatomical-connectivity">
+          <slot start="90" end="106" type="structure" status="machine" />
+          <slot start="260" end="264" type="structure" status="machine" />
+        </base-frame>
+      </sentence>
+    </document>
+    <document idx="142144" PMID="PMC5857222">
+      <sentence>
+        <text idx="0">The trachea and the lung with intact vagus nerves and vagal ganglia were dissected and placed in a two-compartment tissue chamber (Supplementary Figure 6a).</text>
+        <pt idx="0" />
+        <ne start="4" end="11" type="structure" status="machine" />
+        <ne start="20" end="24" type="structure" status="machine" />
+        <ne start="37" end="42" type="structure" status="machine" />
+        <base-frame type="anatomical-connectivity">
+          <slot start="4" end="11" type="structure" status="machine" />
+          <slot start="20" end="24" type="structure" status="machine" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="4" end="11" type="structure" status="machine" />
+          <slot start="37" end="42" type="structure" status="machine" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="20" end="24" type="structure" status="machine" />
+          <slot start="37" end="42" type="structure" status="machine" />
+        </base-frame>
+      </sentence>
+    </document>
+    <document idx="144285" PMID="PMC5096308">
+      <sentence>
+        <text idx="0">Several crustacean circuits, including the stomatogastric nervous system and the cardiac ganglion, continue to provide important new insights into circuit dynamics and modulation [19–22], but this work has been partially hampered by the lack of extensive molecular sequence knowledge in crustaceans.</text>
+        <pt idx="0" />
+        <ne start="58" end="72" type="structure" status="machine" />
+        <ne start="81" end="97" type="structure" status="machine" />
+        <base-frame type="anatomical-connectivity">
+          <slot start="58" end="72" type="structure" status="machine" />
+          <slot start="81" end="97" type="structure" status="machine" />
+        </base-frame>
+      </sentence>
+    </document>
+    <document idx="182047" PMID="PMC4599317">
+      <sentence>
+        <text idx="2">1Investigated tissues: subcutaneous adipose tissue, aorta artery, tibial artery, esophagus mucosa, esophagus muscularis, heart left ventricle, lung, skeletal muscle, tibial nerve, sun-exposed skin, lower leg, stomach, thyroid, whole blood.</text>
+        <pt idx="2" />
+        <ne start="121" end="126" type="structure" status="machine" />
+        <ne start="127" end="141" type="structure" status="machine" />
+        <ne start="143" end="147" type="structure" status="machine" />
+        <ne start="166" end="178" type="structure" status="machine" />
+        <ne start="209" end="216" type="structure" status="machine" />
+        <base-frame type="no-relation">
+          <slot start="121" end="126" type="structure" status="machine" />
+          <slot start="127" end="141" type="structure" status="machine" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="121" end="126" type="structure" status="machine" />
+          <slot start="143" end="147" type="structure" status="machine" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="121" end="126" type="structure" status="machine" />
+          <slot start="166" end="178" type="structure" status="machine" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="121" end="126" type="structure" status="machine" />
+          <slot start="209" end="216" type="structure" status="machine" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="127" end="141" type="structure" status="machine" />
+          <slot start="143" end="147" type="structure" status="machine" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="127" end="141" type="structure" status="machine" />
+          <slot start="166" end="178" type="structure" status="machine" />
+        </base-frame>
+        <base-frame type="anatomical-connectivity">
+          <slot start="127" end="141" type="structure" status="machine" />
+          <slot start="209" end="216" type="structure" status="machine" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="143" end="147" type="structure" status="machine" />
+          <slot start="166" end="178" type="structure" status="machine" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="143" end="147" type="structure" status="machine" />
+          <slot start="209" end="216" type="structure" status="machine" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="166" end="178" type="structure" status="machine" />
+          <slot start="209" end="216" type="structure" status="machine" />
+        </base-frame>
+      </sentence>
+    </document>
+    <document idx="193960" PMID="PMC3823015">
+      <sentence>
+        <text idx="2">The ASIC1, ASIC2 and ASIC3 immunoreactivity has been detected in aortic depressor nerve terminals in the aortic arch, the arterial baroreceptors projecting from nodose ganglia [18].</text>
+        <pt idx="2" />
+        <ne start="105" end="116" type="structure" status="machine" />
+        <ne start="131" end="144" type="structure" status="machine" />
+        <ne start="161" end="175" type="structure" status="machine" />
+        <base-frame type="anatomical-connectivity">
+          <slot start="105" end="116" type="structure" status="machine" />
+          <slot start="131" end="144" type="structure" status="machine" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="105" end="116" type="structure" status="machine" />
+          <slot start="161" end="175" type="structure" status="machine" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="131" end="144" type="structure" status="machine" />
+          <slot start="161" end="175" type="structure" status="machine" />
+        </base-frame>
+      </sentence>
+    </document>
+  </file>
+</index>

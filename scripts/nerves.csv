@@ -1,0 +1,185 @@
+Term,Identifier,Status,Comment,Synonyms
+abdomen nerve,UBERON:0003429,Delete,,
+abducens nerve,UBERON:0001646,Delete,,
+accessory XI nerve,UBERON:0002019,Delete,,
+accessory XI nerve cranial component,UBERON:0009673,Delete,,
+accessory XI nerve spinal component,UBERON:0009674,Delete,,
+ampullary nerve,UBERON:2005144,Delete,,
+ankle nerve,UBERON:0003446,Delete,,
+ansa cervicalis,UBERON:0005430,Delete,,
+anterior lateral line nerve,UBERON:2000425,Delete,,
+anterior superior alveolar nerve,UBERON:0035646,Delete,,
+anterodorsal lateral line nerve (ADLLN),UBERON:3010105,Delete,,
+anteroventral lateral line nerve (AVLLN),UBERON:3010109,Delete,,
+arm nerve,UBERON:0003433,Delete,,
+axillary nerve,UBERON:0001493,Delete,,
+back nerve,UBERON:0004215,Delete,,
+buccal nerve,UBERON:0013646,Delete,,
+chest nerve,UBERON:0003432,Delete,,
+coccygeal nerve,UBERON:0009629,Delete,,
+cochlear nerve,UBERON:0004727,Delete,,
+common fibular nerve,UBERON:0001324,Delete,,
+communicating branch of spinal nerve,UBERON:0017642,Delete,,
+cranial nerve,UBERON:0001785,Delete,,
+deep fibular nerve,UBERON:0035207,Delete,,
+deep temporal nerve,UBERON:0011327,Delete,,
+digastric branch of facial nerve,UBERON:0011315,Delete,,
+digit nerve of manus,UBERON:0003447,Delete,,
+dorsal anterior lateral line nerve,UBERON:2001480,Delete,,
+dorsal nerve root of cervical spinal cord,UBERON:0014635,Delete,,
+dorsal ramus of spinal nerve,UBERON:0006839,Delete,,
+dorsal root of spinal cord,UBERON:0002261,Delete,,
+efferent nerve,UBERON:0006798,Delete,,
+eyelid nerve,UBERON:0003437,Delete,,
+femoral nerve,UBERON:0001267,Delete,,
+fibular nerve,UBERON:0035652,Delete,,
+forelimb nerve,UBERON:0003441,Delete,,
+frontal nerve (branch of ophthalmic),UBERON:0000942,Delete,,
+great auricular nerve,UBERON:0008833,Delete,,
+hindlimb nerve,UBERON:0003442,Delete,,
+hyoideomandibular nerve,UBERON:2002010,Delete,,
+hypoglossal nerve,UBERON:0001650,Delete,,
+inferior alveolar nerve,UBERON:0018405,Delete,,
+inferior branch of oculomotor nerve,UBERON:0015161,Delete,,
+inferior palpebral branch of infra-orbital nerve,UBERON:0022296,Delete,,
+infra-orbital nerve,UBERON:0018408,Delete,,
+intercostal nerve,UBERON:0003727,Delete,,
+jugal ramule,UBERON:3010778,Delete,,
+lateral line nerve,UBERON:0008906,Delete,,
+lateral plantar nerve,UBERON:0035110,Delete,,
+lateral pterygoid nerve,UBERON:0013647,Delete,,
+leg nerve,UBERON:0003431,Delete,,
+limb nerve,UBERON:0003440,Delete,,
+lower arm nerve,UBERON:0004216,Delete,,
+lower eyelid nerve,UBERON:0022298,Delete,,
+lower leg nerve,UBERON:0004218,Delete,,
+lumbar nerve,UBERON:0009624,Delete,,
+mandibular nerve,UBERON:0000375,Delete,,
+manus nerve,UBERON:0003448,Delete,,
+masseteric nerve,UBERON:0011321,Delete,,
+medial plantar nerve,UBERON:0035111,Delete,,
+median nerve,UBERON:0001148,Delete,,
+mental nerve,UBERON:0018406,Delete,,
+middle lateral line nerve,UBERON:2001482,Delete,,
+middle lateral line nerve (MLLN),UBERON:3010126,Delete,,
+musculocutaneous nerve,UBERON:0003724,Delete,,
+mylohyoid nerve,UBERON:0011322,Delete,,
+neck nerve,UBERON:0003430,Delete,,
+nerve,UBERON:0001021,Delete,,
+nerve innervating pinna,UBERON:0035648,Delete,,
+nerve of abdominal segment,UBERON:0003825,Delete,,
+nerve of cervical vertebra,UBERON:0000962,Delete,,
+nerve of head region,UBERON:0011779,Delete,,
+nerve of thoracic segment,UBERON:0003824,Delete,,
+nerve of trunk region,UBERON:0003439,Delete,,
+nerve of tympanic cavity,UBERON:0004116,Delete,,
+nerve to quadratus femoris,UBERON:0034984,Delete,,
+nerve to stylohyoid from facial nerve,UBERON:0011316,Delete,,
+nerve to stylopharyngeus from glossopharyngeal nerve,UBERON:0011317,Delete,,
+obturator nerve,UBERON:0005465,Delete,,
+olfactory nerve,UBERON:0001579,Delete,,
+ophthalmic nerve,UBERON:0000348,Delete,,
+oral ramule,UBERON:3010794,Delete,,
+palmar branch of median nerve,UBERON:0016430,Delete,,
+palpebral branch of infra-orbital nerve,UBERON:0022297,Delete,,
+parasympathetic nerve,UBERON:0004293,Delete,,
+pedal digit nerve,UBERON:0003435,Delete,,
+pelvis nerve,UBERON:0003444,Delete,,
+pes nerve,UBERON:0003445,Delete,,
+pharyngeal branch of vagus nerve,UBERON:0000929,Delete,,
+plantar nerve,UBERON:0035109,Delete,,
+posterior auricular nerve,UBERON:0035647,Delete,,
+posterior lateral line nerve,UBERON:2000175,Delete,,
+posterior lateral line nerve (PLLN),UBERON:3010115,Delete,,
+posterior superior alveolar nerve,UBERON:0018401,Delete,,
+preopercular ramule,UBERON:3010795,Delete,,
+radial nerve,UBERON:0001492,Delete,,
+ramule palatinus,UBERON:3010665,Delete,,
+ramules cutaneous,UBERON:3010668,Delete,,
+ramules nasalis lateralis,UBERON:3010652,Delete,,
+ramulus suprabranchialis anterior,UBERON:3010798,Delete,,
+ramulus suprabranchialis posterior,UBERON:3010799,Delete,,
+ramus auricularis of the vagus nerve,UBERON:3010740,Delete,,
+ramus buccal,UBERON:3010759,Delete,,
+ramus lateral,UBERON:3010801,Delete,,
+ramus mandibularis externus,UBERON:3010765,Delete,,
+ramus nasalis internus,UBERON:3010661,Delete,,
+ramus palatinus,UBERON:3010722,Delete,,
+ramus superficial ophthalmic,UBERON:3010757,Delete,,
+ramus supraotic,UBERON:3010796,Delete,,
+ramus ventral,UBERON:3010804,Delete,,
+saphenous nerve,UBERON:0002475,Delete,,
+sciatic nerve,UBERON:0001322,Delete,,
+segmental spinal nerve,UBERON:0005197,Delete,,
+sensory nerve,UBERON:0001027,Delete,,
+shoulder nerve,UBERON:0003436,Delete,,
+spinal nerve,UBERON:0001780,Delete,,
+superficial fibular nerve,UBERON:0035526,Delete,,
+superior alveolar nerve,UBERON:0018398,Delete,,
+sural nerve,UBERON:0015488,Delete,,
+sympathetic nerve,UBERON:0034729,Delete,,
+thoracic cavity nerve,UBERON:0003443,Delete,,
+thoracic nerve,UBERON:0003726,Delete,,
+trochlear nerve,UBERON:0001644,Delete,,
+trunk maxillary-mandibularis,UBERON:3010669,Delete,,
+ulnar nerve,UBERON:0001494,Delete,,
+upper arm nerve,UBERON:0004217,Delete,,
+upper eyelid nerve,UBERON:0022299,Delete,,
+upper leg nerve,UBERON:0004214,Delete,,
+ventral anterior lateral line nerve,UBERON:2001481,Delete,,
+ventral nerve root of cervical spinal cord,UBERON:0014634,Delete,,
+ventral ramus of spinal nerve,UBERON:0006838,Delete,,
+ventral root of spinal cord,UBERON:0002260,Delete,,
+vestibular nerve,UBERON:0001648,Delete,,
+vestibulocochlear nerve,UBERON:0001648,Delete,,
+vomeronasal nerve,UBERON:0009121,Delete,,
+wrist nerve,UBERON:0003434,Delete,,
+zygomaticotemporal nerve,UBERON:0036264,Delete,,
+autonomic nerve,UBERON:0034728,Keep,,"visceral nerve, nervus visceralis"
+carotid sinus nerve,UBERON:0009009,Keep,,"ramus sinus carotici nervus glossopharyngei, ramus sinus carotici, Hering sinus nerve, carotid branch of glossopharyngeal nerve, sinus nerve of Hering, ramus sinus carotici nervi glossopharyngei"
+cholinergic enteric nerve,UBERON:0010406,Keep,,
+chorda tympani branch of facial nerve,UBERON:0009675,Keep,,"facial VII nerve chorda tympani branch, parasympathetic root of submandibular ganglion, radix parasympathica ganglii submandibularis, nervus corda tympani, tympanic cord, chorda tympani, chorda tympani nerve, corda tympani nerve"
+dorsal nerve of clitoris,UBERON:0019198,Keep,,"dorsal nerve of the clitoris, nervus dorsalis clitoridis"
+dorsal nerve of penis,UBERON:0019197,Keep,,"nervus dorsalis penis <male>, dorsal nerves of the penis, nervus dorsalis penis, dorsal nerve of penis"
+enteric nerve,UBERON:0010380,Keep,,
+facial nerve,UBERON:0001647,Keep,,"CN-VII, nervus facialis [vii], facial nerve or its root, facial nerve/root, facial nerve tree, nervus facialis, face nerve, cranial nerve VII, seventh cranial nerve, 7n, facial VII, facial VII nerve, branchiomeric cranial nerve, nerve of face, facial nerve [VII], nerve VII"
+glossopharyngeal nerve,UBERON:0001649,Keep,,"glossopharyngeal nerve [IX], ninth cranial nerve, glossopharyngeal nerve tree, cranial nerve IX, nervus glossopharyngeus [ix], CN-IX, 9n, nerve IX, glossopharyngeal IX, glossopharyngeal IX nerve, nervus glossopharyngeus"
+greater splanchnic nerve,UBERON:0018680,Keep,,greater thoracic splanchnic nerve
+iris nerve,UBERON:0003438,Keep,,"nerve of iris, ciliary nerve"
+lacrimal nerve,UBERON:0011096,Keep,,nervus lacrimalis
+laryngeal nerve,UBERON:0035642,Keep,,
+laryngeus ventralis,UBERON:3010764,Keep,,
+least splanchnic nerve,UBERON:0001964,Keep,,"renal branch of lesser splanchnic nerve, renal nerve, lowest splanchnic nerve, thoracic splanchnic nerve, ramus renalis nervus splanchnici minoris, least thoracic splanchnic nerve, nervus splanchnicus imus"
+left recurrent laryngeal nerve,UBERON:0011766,Keep,,"left recurrent laryngeal nerve, left recurrent laryngeal branch, vagus X nerve left recurrent laryngeal branch"
+lesser splanchnic nerve,UBERON:0018681,Keep,,lesser thoracic splanchnic nerve
+lingual nerve,UBERON:0003721,Keep,,"trigeminal V nerve lingual branch, lingual branch of trigeminal nerve, trigeminal nerve lingual branch"
+long ciliary nerve,UBERON:0022301,Keep,,"long ciliary nerve, nervi ciliares longi"
+lumbar splanchnic nerve,UBERON:0018683,Keep,,lumbar splanchnic nerve
+maxillary nerve,UBERON:0000377,Keep,,"trigeminal nerve maxillary division, maxillary division [Vb], maxillary nerve [Vb], n. maxillaris, maxillary division of fifth cranial nerve, nervus maxillaris (Vb; V2), ramus maxillaris (ramus V2), nervus maxillaris [vb], maxillary division of trigeminal nerve (Vb; V2), maxillary division [V2], maxillary nerve [V2], trigeminal V nerve maxillary division, second division of fifth cranial nerve, second division of trigeminal nerve, nervus maxillaris [v2], nervus maxillaris"
+meningeal branch of mandibular nerve,UBERON:0036143,Keep,,"ramus meningeus nervus mandibularis, ramus meningeus (Nervus mandibularis), nervus spinosus"
+meningeal branch of spinal nerve,UBERON:0017641,Keep,,"ramus meningeus nervorum spinales, recurrent meningeal branch of spinal nerve, sinuvertebral nerve, sinuvertebral branch of spinal nerve"
+nasociliary nerve,UBERON:0022300,Keep,,"nasociliary, nasal nerve, nervus nasociliaris, nasociliary nerve"
+nasopalatine nerve,UBERON:0008810,Keep,,"naso-palatine nerve, nasopalatine nerves, nervus nasopalatinus, Scarpa's nerve, nasopalatine"
+nerve of clitoris,UBERON:0035650,Keep,,"clitoris nerve, clitoral nerve"
+nerve of penis,UBERON:0035649,Keep,,"penile nerve, penis nerve"
+oculomotor nerve,UBERON:0001643,Keep,,"oculomotor nerve [III], cranial nerve III, occulomotor, oculomotor III nerve, oculomotor III, third cranial nerve, nerve III, nervus oculomotorius, oculomotor nerve or its root, CN-III, nervus oculomotorius [III], 3n, oculomotor nerve tree"
+pelvic splanchnic nerve,UBERON:0018675,Keep,Add Synonym:  Pelvic nerve,"pelvic splanchnic parasympathetic nerve, pelvic splanchnic nerve, nervi erigentes, nn erigentes, nervi pelvici splanchnici, nervi splanchnici pelvici"
+perineal nerve,UBERON:0011391,Keep,,perineal branch of pudendal nerve
+phrenic nerve,UBERON:0001884,Keep,,"nervus phrenicus, phrenic, diaphragmatic nerve"
+pterygopalatine nerve,UBERON:0034725,Keep,,"pterygopalatine nerve, sensory root of pterygopalatine ganglion, ganglionic branch of maxillary nerve to pterygopalatine ganglion, pharyngeal nerve, radix sensoria ganglii pterygopalatini"
+pudendal nerve,UBERON:0011390,Keep,,"pudendal, pudenal nerve, internal pudendal nerve"
+recurrent laryngeal nerve,UBERON:0003716,Keep,,"inferior laryngeal nerve, nervus laryngeus recurrens, vagus X nerve recurrent laryngeal branch, recurrent nerve, recurrent laryngeal nerve from vagus nerve, ramus recurrens"
+right recurrent laryngeal nerve,UBERON:0011766,Keep,,"left recurrent laryngeal nerve, left recurrent laryngeal branch, vagus X nerve left recurrent laryngeal branch"
+sacral nerve,UBERON:0009625,Keep,,"nervi sacrales, nervus sacralis, sacral spinal nerve"
+sacral splanchnic nerve,UBERON:0018684,Keep,,
+short ciliary nerve,UBERON:0022302,Keep,,"nervi ciliares breves, lower branch of ciliary ganglion, short ciliary nerve, nervi ciliares brevis"
+splanchnic nerve,UBERON:0003715,Keep,,"visceral nerve, splanchnic nerves"
+superior branch of oculomotor nerve,UBERON:0015162,Keep,,"dorsal ramus of occulomotor nerve, superior ramus of oculomotor nerve, dorsal ramus of oculomotor nerve, ramus superior nervi oculomotorii, ramus superior nervus oculomotorii, superior division of oculomotor nerve, oculomotor nerve superior division, ramus superior (nervus oculomotorius [III])"
+superior laryngeal nerve,UBERON:0011326,Keep,,"superior laryngeal branch of inferior vagal ganglion, nervus laryngeus superior, nervus laryngealis superior, superior laryngeal branch of vagus"
+terminal nerve,UBERON:0002924,Keep,,"cranial nerve 0, TRN, nervus terminalis, terminalis, terminalis nerve, cranial nerve zero"
+thoracic splanchnic nerve,UBERON:0018679,Keep,,
+tibial nerve,UBERON:0001323,Keep,,"medial popliteal nerve, n. tibialis"
+trigeminal nerve,UBERON:0001645,Keep,,"nervus trigeminus [v], trigeminal v nerve, trigeminal nerve tree, nerve V, nervus trigeminus, trigeminal nerve [V], 5n, cranial nerve V, CN-V, trigeminal V, fifth cranial nerve, trigeminus"
+tympanic nerve,UBERON:0036216,Keep,,"jacobson%27s nerve, tympanic branch, nerve of jacobson, tympanic branch of the glossopharyngeal, tympanic"
+vagus nerve,UBERON:0001759,Keep,,"vagal nerve, nerve X, CN-X, 10n, pneuomgastric nerve, vagus X nerve, vagus, cranial nerve X, vagus nerve [X], vagus nerve or its root, tenth cranial nerve, vagus nerve tree, nervus vagus, nervus vagus [x]"
+vidian nerve,UBERON:0018412,Keep,,"pterygoid canal nerve, vidian nerve, nerve of pterygoid canal, nerve of the pterygoid canal"

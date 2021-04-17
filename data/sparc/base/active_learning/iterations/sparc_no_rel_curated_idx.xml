@@ -1,0 +1,1103 @@
+<index>
+  <!--Created by sciscore.relation.annotator.RelationAnnotator at Mon Feb 22 16:21:25 PST 2021-->
+  <file xml="" in="" out="">
+    <document idx="8758" PMID="PMC5616078">
+      <sentence>
+        <text idx="0">Collected organs included the brain, tibial nerve, liver, kidney, pancreas, epididymis, heart, mesenteric lymph node, adrenal glands, colon, small intestine, thymus, spleen, prostate, lungs, and testes.</text>
+        <pt idx="0" />
+        <ne start="30" end="35" type="structure" status="machine" />
+        <ne start="37" end="49" type="structure" status="machine" />
+        <ne start="51" end="56" type="structure" status="machine" />
+        <ne start="58" end="64" type="structure" status="machine" />
+        <ne start="66" end="74" type="structure" status="machine" />
+        <ne start="76" end="86" type="structure" status="human" />
+        <ne start="88" end="93" type="structure" status="machine" />
+        <ne start="95" end="116" type="structure" status="human" />
+        <ne start="118" end="132" type="structure" status="human" />
+        <ne start="134" end="139" type="structure" status="machine" />
+        <ne start="141" end="156" type="structure" status="machine" />
+        <ne start="158" end="164" type="structure" status="human" />
+        <ne start="166" end="172" type="structure" status="machine" />
+        <ne start="174" end="182" type="structure" status="human" />
+        <ne start="184" end="189" type="structure" status="human" />
+        <ne start="195" end="201" type="structure" status="human" />
+        <base-frame type="no-relation">
+          <slot start="30" end="35" type="structure" status="machine" />
+          <slot start="37" end="49" type="structure" status="machine" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="30" end="35" type="structure" status="machine" />
+          <slot start="51" end="56" type="structure" status="machine" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="30" end="35" type="structure" status="machine" />
+          <slot start="58" end="64" type="structure" status="machine" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="30" end="35" type="structure" status="machine" />
+          <slot start="66" end="74" type="structure" status="machine" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="30" end="35" type="structure" status="machine" />
+          <slot start="76" end="86" type="structure" status="human" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="30" end="35" type="structure" status="machine" />
+          <slot start="88" end="93" type="structure" status="machine" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="30" end="35" type="structure" status="machine" />
+          <slot start="95" end="116" type="structure" status="human" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="30" end="35" type="structure" status="machine" />
+          <slot start="118" end="132" type="structure" status="human" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="30" end="35" type="structure" status="machine" />
+          <slot start="134" end="139" type="structure" status="machine" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="30" end="35" type="structure" status="machine" />
+          <slot start="141" end="156" type="structure" status="machine" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="30" end="35" type="structure" status="machine" />
+          <slot start="158" end="164" type="structure" status="human" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="30" end="35" type="structure" status="machine" />
+          <slot start="166" end="172" type="structure" status="machine" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="30" end="35" type="structure" status="machine" />
+          <slot start="174" end="182" type="structure" status="human" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="30" end="35" type="structure" status="machine" />
+          <slot start="184" end="189" type="structure" status="human" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="30" end="35" type="structure" status="machine" />
+          <slot start="195" end="201" type="structure" status="human" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="37" end="49" type="structure" status="machine" />
+          <slot start="51" end="56" type="structure" status="machine" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="37" end="49" type="structure" status="machine" />
+          <slot start="58" end="64" type="structure" status="machine" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="37" end="49" type="structure" status="machine" />
+          <slot start="66" end="74" type="structure" status="machine" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="37" end="49" type="structure" status="machine" />
+          <slot start="76" end="86" type="structure" status="human" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="37" end="49" type="structure" status="machine" />
+          <slot start="88" end="93" type="structure" status="machine" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="37" end="49" type="structure" status="machine" />
+          <slot start="95" end="116" type="structure" status="human" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="37" end="49" type="structure" status="machine" />
+          <slot start="118" end="132" type="structure" status="human" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="37" end="49" type="structure" status="machine" />
+          <slot start="134" end="139" type="structure" status="machine" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="37" end="49" type="structure" status="machine" />
+          <slot start="141" end="156" type="structure" status="machine" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="37" end="49" type="structure" status="machine" />
+          <slot start="158" end="164" type="structure" status="human" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="37" end="49" type="structure" status="machine" />
+          <slot start="166" end="172" type="structure" status="machine" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="37" end="49" type="structure" status="machine" />
+          <slot start="174" end="182" type="structure" status="human" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="37" end="49" type="structure" status="machine" />
+          <slot start="184" end="189" type="structure" status="human" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="37" end="49" type="structure" status="machine" />
+          <slot start="195" end="201" type="structure" status="human" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="51" end="56" type="structure" status="machine" />
+          <slot start="58" end="64" type="structure" status="machine" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="51" end="56" type="structure" status="machine" />
+          <slot start="66" end="74" type="structure" status="machine" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="51" end="56" type="structure" status="machine" />
+          <slot start="76" end="86" type="structure" status="human" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="51" end="56" type="structure" status="machine" />
+          <slot start="88" end="93" type="structure" status="machine" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="51" end="56" type="structure" status="machine" />
+          <slot start="95" end="116" type="structure" status="human" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="51" end="56" type="structure" status="machine" />
+          <slot start="118" end="132" type="structure" status="human" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="51" end="56" type="structure" status="machine" />
+          <slot start="134" end="139" type="structure" status="machine" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="51" end="56" type="structure" status="machine" />
+          <slot start="141" end="156" type="structure" status="machine" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="51" end="56" type="structure" status="machine" />
+          <slot start="158" end="164" type="structure" status="human" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="51" end="56" type="structure" status="machine" />
+          <slot start="166" end="172" type="structure" status="machine" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="51" end="56" type="structure" status="machine" />
+          <slot start="174" end="182" type="structure" status="human" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="51" end="56" type="structure" status="machine" />
+          <slot start="184" end="189" type="structure" status="human" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="51" end="56" type="structure" status="machine" />
+          <slot start="195" end="201" type="structure" status="human" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="58" end="64" type="structure" status="machine" />
+          <slot start="66" end="74" type="structure" status="machine" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="58" end="64" type="structure" status="machine" />
+          <slot start="76" end="86" type="structure" status="human" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="58" end="64" type="structure" status="machine" />
+          <slot start="88" end="93" type="structure" status="machine" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="58" end="64" type="structure" status="machine" />
+          <slot start="95" end="116" type="structure" status="human" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="58" end="64" type="structure" status="machine" />
+          <slot start="118" end="132" type="structure" status="human" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="58" end="64" type="structure" status="machine" />
+          <slot start="134" end="139" type="structure" status="machine" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="58" end="64" type="structure" status="machine" />
+          <slot start="141" end="156" type="structure" status="machine" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="58" end="64" type="structure" status="machine" />
+          <slot start="158" end="164" type="structure" status="human" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="58" end="64" type="structure" status="machine" />
+          <slot start="166" end="172" type="structure" status="machine" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="58" end="64" type="structure" status="machine" />
+          <slot start="174" end="182" type="structure" status="human" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="58" end="64" type="structure" status="machine" />
+          <slot start="184" end="189" type="structure" status="human" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="58" end="64" type="structure" status="machine" />
+          <slot start="195" end="201" type="structure" status="human" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="66" end="74" type="structure" status="machine" />
+          <slot start="76" end="86" type="structure" status="human" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="66" end="74" type="structure" status="machine" />
+          <slot start="88" end="93" type="structure" status="machine" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="66" end="74" type="structure" status="machine" />
+          <slot start="95" end="116" type="structure" status="human" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="66" end="74" type="structure" status="machine" />
+          <slot start="118" end="132" type="structure" status="human" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="66" end="74" type="structure" status="machine" />
+          <slot start="134" end="139" type="structure" status="machine" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="66" end="74" type="structure" status="machine" />
+          <slot start="141" end="156" type="structure" status="machine" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="66" end="74" type="structure" status="machine" />
+          <slot start="158" end="164" type="structure" status="human" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="66" end="74" type="structure" status="machine" />
+          <slot start="166" end="172" type="structure" status="machine" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="66" end="74" type="structure" status="machine" />
+          <slot start="174" end="182" type="structure" status="human" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="66" end="74" type="structure" status="machine" />
+          <slot start="184" end="189" type="structure" status="human" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="66" end="74" type="structure" status="machine" />
+          <slot start="195" end="201" type="structure" status="human" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="76" end="86" type="structure" status="human" />
+          <slot start="88" end="93" type="structure" status="machine" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="76" end="86" type="structure" status="human" />
+          <slot start="95" end="116" type="structure" status="human" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="76" end="86" type="structure" status="human" />
+          <slot start="118" end="132" type="structure" status="human" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="76" end="86" type="structure" status="human" />
+          <slot start="134" end="139" type="structure" status="machine" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="76" end="86" type="structure" status="human" />
+          <slot start="141" end="156" type="structure" status="machine" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="76" end="86" type="structure" status="human" />
+          <slot start="158" end="164" type="structure" status="human" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="76" end="86" type="structure" status="human" />
+          <slot start="166" end="172" type="structure" status="machine" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="76" end="86" type="structure" status="human" />
+          <slot start="174" end="182" type="structure" status="human" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="76" end="86" type="structure" status="human" />
+          <slot start="184" end="189" type="structure" status="human" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="76" end="86" type="structure" status="human" />
+          <slot start="195" end="201" type="structure" status="human" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="88" end="93" type="structure" status="machine" />
+          <slot start="95" end="116" type="structure" status="human" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="88" end="93" type="structure" status="machine" />
+          <slot start="118" end="132" type="structure" status="human" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="88" end="93" type="structure" status="machine" />
+          <slot start="134" end="139" type="structure" status="machine" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="88" end="93" type="structure" status="machine" />
+          <slot start="141" end="156" type="structure" status="machine" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="88" end="93" type="structure" status="machine" />
+          <slot start="158" end="164" type="structure" status="human" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="88" end="93" type="structure" status="machine" />
+          <slot start="166" end="172" type="structure" status="machine" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="88" end="93" type="structure" status="machine" />
+          <slot start="174" end="182" type="structure" status="human" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="88" end="93" type="structure" status="machine" />
+          <slot start="184" end="189" type="structure" status="human" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="88" end="93" type="structure" status="machine" />
+          <slot start="195" end="201" type="structure" status="human" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="95" end="116" type="structure" status="human" />
+          <slot start="118" end="132" type="structure" status="human" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="95" end="116" type="structure" status="human" />
+          <slot start="134" end="139" type="structure" status="machine" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="95" end="116" type="structure" status="human" />
+          <slot start="141" end="156" type="structure" status="machine" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="95" end="116" type="structure" status="human" />
+          <slot start="158" end="164" type="structure" status="human" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="95" end="116" type="structure" status="human" />
+          <slot start="166" end="172" type="structure" status="machine" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="95" end="116" type="structure" status="human" />
+          <slot start="174" end="182" type="structure" status="human" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="95" end="116" type="structure" status="human" />
+          <slot start="184" end="189" type="structure" status="human" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="95" end="116" type="structure" status="human" />
+          <slot start="195" end="201" type="structure" status="human" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="118" end="132" type="structure" status="human" />
+          <slot start="134" end="139" type="structure" status="machine" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="118" end="132" type="structure" status="human" />
+          <slot start="141" end="156" type="structure" status="machine" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="118" end="132" type="structure" status="human" />
+          <slot start="158" end="164" type="structure" status="human" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="118" end="132" type="structure" status="human" />
+          <slot start="166" end="172" type="structure" status="machine" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="118" end="132" type="structure" status="human" />
+          <slot start="174" end="182" type="structure" status="human" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="118" end="132" type="structure" status="human" />
+          <slot start="184" end="189" type="structure" status="human" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="118" end="132" type="structure" status="human" />
+          <slot start="195" end="201" type="structure" status="human" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="134" end="139" type="structure" status="machine" />
+          <slot start="141" end="156" type="structure" status="machine" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="134" end="139" type="structure" status="machine" />
+          <slot start="158" end="164" type="structure" status="human" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="134" end="139" type="structure" status="machine" />
+          <slot start="166" end="172" type="structure" status="machine" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="134" end="139" type="structure" status="machine" />
+          <slot start="174" end="182" type="structure" status="human" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="134" end="139" type="structure" status="machine" />
+          <slot start="184" end="189" type="structure" status="human" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="134" end="139" type="structure" status="machine" />
+          <slot start="195" end="201" type="structure" status="human" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="141" end="156" type="structure" status="machine" />
+          <slot start="158" end="164" type="structure" status="human" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="141" end="156" type="structure" status="machine" />
+          <slot start="166" end="172" type="structure" status="machine" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="141" end="156" type="structure" status="machine" />
+          <slot start="174" end="182" type="structure" status="human" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="141" end="156" type="structure" status="machine" />
+          <slot start="184" end="189" type="structure" status="human" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="141" end="156" type="structure" status="machine" />
+          <slot start="195" end="201" type="structure" status="human" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="158" end="164" type="structure" status="human" />
+          <slot start="166" end="172" type="structure" status="machine" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="158" end="164" type="structure" status="human" />
+          <slot start="174" end="182" type="structure" status="human" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="158" end="164" type="structure" status="human" />
+          <slot start="184" end="189" type="structure" status="human" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="158" end="164" type="structure" status="human" />
+          <slot start="195" end="201" type="structure" status="human" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="166" end="172" type="structure" status="machine" />
+          <slot start="174" end="182" type="structure" status="human" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="166" end="172" type="structure" status="machine" />
+          <slot start="184" end="189" type="structure" status="human" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="166" end="172" type="structure" status="machine" />
+          <slot start="195" end="201" type="structure" status="human" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="174" end="182" type="structure" status="human" />
+          <slot start="184" end="189" type="structure" status="human" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="174" end="182" type="structure" status="human" />
+          <slot start="195" end="201" type="structure" status="human" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="184" end="189" type="structure" status="human" />
+          <slot start="195" end="201" type="structure" status="human" />
+        </base-frame>
+      </sentence>
+    </document>
+    <document idx="10877" PMID="PMC5894067">
+      <sentence>
+        <text idx="0">Our series revealed that the offending vessels can come in contact with REZ and PNS of the glossopharyngeal nerve.</text>
+        <pt idx="0" />
+        <ne start="91" end="113" type="structure" status="machine" />
+        <base-frame type="no-relation">
+          <slot start="80" end="83" type="structure" status="machine" />
+          <slot start="91" end="113" type="structure" status="machine" />
+        </base-frame>
+      </sentence>
+    </document>
+    <document idx="51090" PMID="PMC3782835">
+      <sentence>
+        <text idx="8">CCK-1 receptors are abundant in the gut and in a few discrete brain regions (NTS, the area postrema and the hypothalamus), while CCK-2 receptors are expressed in the cerebral cortex, the hypothalamus, vagal nerve, spinal cord, and gastric mucosa [191].</text>
+        <pt idx="8" />
+        <ne start="62" end="67" type="structure" status="machine" />
+        <ne start="86" end="99" type="structure" status="machine" />
+        <ne start="108" end="120" type="structure" status="human" />
+        <ne start="166" end="181" type="structure" status="machine" />
+        <ne start="187" end="199" type="structure" status="machine" />
+        <ne start="201" end="212" type="structure" status="machine" />
+        <ne start="214" end="225" type="structure" status="machine" />
+        <ne start="231" end="245" type="structure" status="human" />
+        <base-frame type="no-relation">
+          <slot start="62" end="67" type="structure" status="machine" />
+          <slot start="86" end="99" type="structure" status="machine" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="62" end="67" type="structure" status="machine" />
+          <slot start="108" end="120" type="structure" status="human" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="62" end="67" type="structure" status="machine" />
+          <slot start="166" end="181" type="structure" status="machine" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="62" end="67" type="structure" status="machine" />
+          <slot start="187" end="199" type="structure" status="machine" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="62" end="67" type="structure" status="machine" />
+          <slot start="201" end="212" type="structure" status="machine" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="62" end="67" type="structure" status="machine" />
+          <slot start="214" end="225" type="structure" status="machine" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="62" end="67" type="structure" status="machine" />
+          <slot start="231" end="245" type="structure" status="human" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="86" end="99" type="structure" status="machine" />
+          <slot start="108" end="120" type="structure" status="human" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="86" end="99" type="structure" status="machine" />
+          <slot start="166" end="181" type="structure" status="machine" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="86" end="99" type="structure" status="machine" />
+          <slot start="187" end="199" type="structure" status="machine" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="86" end="99" type="structure" status="machine" />
+          <slot start="201" end="212" type="structure" status="machine" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="86" end="99" type="structure" status="machine" />
+          <slot start="214" end="225" type="structure" status="machine" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="86" end="99" type="structure" status="machine" />
+          <slot start="231" end="245" type="structure" status="human" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="108" end="120" type="structure" status="human" />
+          <slot start="166" end="181" type="structure" status="machine" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="108" end="120" type="structure" status="human" />
+          <slot start="187" end="199" type="structure" status="machine" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="108" end="120" type="structure" status="human" />
+          <slot start="201" end="212" type="structure" status="machine" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="108" end="120" type="structure" status="human" />
+          <slot start="214" end="225" type="structure" status="machine" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="108" end="120" type="structure" status="human" />
+          <slot start="231" end="245" type="structure" status="human" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="166" end="181" type="structure" status="machine" />
+          <slot start="187" end="199" type="structure" status="machine" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="166" end="181" type="structure" status="machine" />
+          <slot start="201" end="212" type="structure" status="machine" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="166" end="181" type="structure" status="machine" />
+          <slot start="214" end="225" type="structure" status="machine" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="166" end="181" type="structure" status="machine" />
+          <slot start="231" end="245" type="structure" status="human" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="187" end="199" type="structure" status="machine" />
+          <slot start="201" end="212" type="structure" status="machine" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="187" end="199" type="structure" status="machine" />
+          <slot start="214" end="225" type="structure" status="machine" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="187" end="199" type="structure" status="machine" />
+          <slot start="231" end="245" type="structure" status="human" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="201" end="212" type="structure" status="machine" />
+          <slot start="214" end="225" type="structure" status="machine" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="201" end="212" type="structure" status="machine" />
+          <slot start="231" end="245" type="structure" status="human" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="214" end="225" type="structure" status="machine" />
+          <slot start="231" end="245" type="structure" status="human" />
+        </base-frame>
+      </sentence>
+    </document>
+    <document idx="54255" PMID="PMC6948323">
+      <sentence>
+        <text idx="0">Adjacent incus may be malformed, (c) Tympanic facial nerve level (Figure 3(c)): horizontal segment of facial nerve is mal-positioned to cover the site of oval window niche and even the malformed stapes may be attached to the facial nerve.</text>
+        <pt idx="0" />
+        <ne start="37" end="45" type="structure" status="machine" />
+        <ne start="102" end="114" type="structure" status="machine" />
+        <ne start="225" end="237" type="structure" status="machine" />
+        <base-frame type="no-relation">
+          <slot start="37" end="45" type="structure" status="machine" />
+          <slot start="102" end="114" type="structure" status="machine" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="37" end="45" type="structure" status="machine" />
+          <slot start="225" end="237" type="structure" status="machine" />
+        </base-frame>
+        <base-frame type="general-connectivity">
+          <slot start="102" end="114" type="structure" status="machine" />
+          <slot start="225" end="237" type="structure" status="machine" />
+        </base-frame>
+      </sentence>
+    </document>
+    <document idx="57466" PMID="PMC7249853">
+      <sentence>
+        <text idx="3">In dogs specifically, T1-weighted (T1W) post-contrast enhancement of the trigeminal ganglion occurs in up to 100% of unaffected animals and the majority of dogs also show normal post-contrast enhancement of the entire intracranial trigeminal nerve and brainstem nuclei (4).</text>
+        <pt idx="3" />
+        <ne start="73" end="92" type="structure" status="machine" />
+        <ne start="231" end="247" type="structure" status="machine" />
+        <ne start="252" end="261" type="structure" status="machine" />
+        <base-frame type="no-relation">
+          <slot start="73" end="92" type="structure" status="machine" />
+          <slot start="231" end="247" type="structure" status="machine" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="73" end="92" type="structure" status="machine" />
+          <slot start="252" end="261" type="structure" status="machine" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="231" end="247" type="structure" status="machine" />
+          <slot start="252" end="261" type="structure" status="machine" />
+        </base-frame>
+      </sentence>
+    </document>
+    <document idx="63734" PMID="PMC6894889">
+      <sentence>
+        <text idx="0">According to the Braak hypothesis, the dorsal motor nucleus of the vagus is the initial central nervous system target in PD [31, 32]; however, we could not include structures in the pons and medulla due to difficulty in imaging either atrophy or white matter tracts in the brainstem.</text>
+        <pt idx="0" />
+        <ne start="39" end="72" type="structure" status="human" />
+        <ne start="182" end="186" type="structure" status="machine" />
+        <ne start="191" end="198" type="structure" status="machine" />
+        <ne start="273" end="282" type="structure" status="machine" />
+        <base-frame type="no-relation">
+          <slot start="67" end="72" type="structure" status="machine" />
+          <slot start="182" end="186" type="structure" status="machine" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="67" end="72" type="structure" status="machine" />
+          <slot start="191" end="198" type="structure" status="machine" />
+        </base-frame>
+        <base-frame type="anatomical-connectivity">
+          <slot start="67" end="72" type="structure" status="machine" />
+          <slot start="273" end="282" type="structure" status="machine" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="39" end="72" type="structure" status="human" />
+          <slot start="182" end="186" type="structure" status="machine" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="39" end="72" type="structure" status="human" />
+          <slot start="191" end="198" type="structure" status="machine" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="39" end="72" type="structure" status="human" />
+          <slot start="273" end="282" type="structure" status="machine" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="182" end="186" type="structure" status="machine" />
+          <slot start="191" end="198" type="structure" status="machine" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="182" end="186" type="structure" status="machine" />
+          <slot start="273" end="282" type="structure" status="machine" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="191" end="198" type="structure" status="machine" />
+          <slot start="273" end="282" type="structure" status="machine" />
+        </base-frame>
+      </sentence>
+    </document>
+    <document idx="64769" PMID="PMC6751316">
+      <sentence>
+        <text idx="1">In agreement with our findings that the vagus nerve provides only excitatory parasympathetic drive to gastric smooth muscle (non-sphincter) are data that also show IV atropine abolishes gastric motility induced by administration of water into the larynx.</text>
+        <pt idx="1" />
+        <ne start="40" end="51" type="structure" status="machine" />
+        <ne start="247" end="253" type="structure" status="machine" />
+        <base-frame type="general-connectivity">
+          <slot start="40" end="51" type="structure" status="machine" />
+          <slot start="247" end="253" type="structure" status="machine" />
+        </base-frame>
+      </sentence>
+    </document>
+    <document idx="64898" PMID="PMC6736627">
+      <sentence>
+        <text idx="1">Subcutaneous tissues between the (E) sternomastoid (SM) and sternohyoid muscles along the trachea were separated using blunt dissection which reveals the (F) common carotid artery (CA) and the cervical vagus nerve (VN).</text>
+        <pt idx="1" />
+        <ne start="90" end="97" type="structure" status="machine" />
+        <ne start="158" end="179" type="structure" status="machine" />
+        <ne start="202" end="213" type="structure" status="machine" />
+        <base-frame type="no-relation">
+          <slot start="90" end="97" type="structure" status="machine" />
+          <slot start="158" end="179" type="structure" status="machine" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="90" end="97" type="structure" status="machine" />
+          <slot start="202" end="213" type="structure" status="machine" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="158" end="179" type="structure" status="machine" />
+          <slot start="202" end="213" type="structure" status="machine" />
+        </base-frame>
+      </sentence>
+    </document>
+    <document idx="103996" PMID="PMC6595806">
+      <sentence>
+        <text idx="2">Especially in conditions of ocular diseases or compound injury of head and face and trigeminal nerve or facial nerve diseases, which may influence the determination of corneal reflex, the results should be analyzed carefully.3.</text>
+        <pt idx="2" />
+        <ne start="84" end="100" type="structure" status="machine" />
+        <ne start="104" end="116" type="structure" status="machine" />
+        <base-frame type="no-relation">
+          <slot start="84" end="100" type="structure" status="machine" />
+          <slot start="104" end="116" type="structure" status="machine" />
+        </base-frame>
+      </sentence>
+    </document>
+    <document idx="105833" PMID="PMC5633101">
+      <sentence>
+        <text idx="2">Since our patient had an LAD and not an RCA occlusion, we theorize that referred pain to the vagus nerve can still occur because the sympathetic visceral afferent branches from the heart, which usually carry the pain signals, pass through the cardiac plexus, which the vagus nerve is part of [9].</text>
+        <pt idx="2" />
+        <ne start="93" end="104" type="structure" status="machine" />
+        <ne start="181" end="186" type="structure" status="machine" />
+        <ne start="243" end="257" type="structure" status="machine" />
+        <ne start="269" end="280" type="structure" status="human" />
+        <base-frame type="anatomical-connectivity">
+          <slot start="93" end="104" type="structure" status="machine" />
+          <slot start="181" end="186" type="structure" status="machine" />
+        </base-frame>
+        <base-frame type="topological-connectivity">
+          <slot start="93" end="104" type="structure" status="machine" />
+          <slot start="243" end="257" type="structure" status="machine" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="93" end="104" type="structure" status="machine" />
+          <slot start="269" end="280" type="structure" status="human" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="181" end="186" type="structure" status="machine" />
+          <slot start="243" end="257" type="structure" status="machine" />
+        </base-frame>
+        <base-frame type="anatomical-connectivity">
+          <slot start="181" end="186" type="structure" status="machine" />
+          <slot start="269" end="280" type="structure" status="human" />
+        </base-frame>
+        <base-frame type="anatomical-connectivity">
+          <slot start="243" end="257" type="structure" status="machine" />
+          <slot start="269" end="280" type="structure" status="human" />
+        </base-frame>
+      </sentence>
+    </document>
+    <document idx="115996" PMID="PMC5008009">
+      <sentence>
+        <text idx="0">Because ATF3 is upregulated upon injury in Schwann cells of the sciatic nerve [53,54], we wondered whether ATF3 expression is also induced in facial nerve Schwann cells.</text>
+        <pt idx="0" />
+        <ne start="64" end="77" type="structure" status="machine" />
+        <ne start="142" end="154" type="structure" status="machine" />
+        <base-frame type="no-relation">
+          <slot start="64" end="77" type="structure" status="machine" />
+          <slot start="142" end="154" type="structure" status="machine" />
+        </base-frame>
+      </sentence>
+    </document>
+    <document idx="138994" PMID="PMC4086707">
+      <sentence>
+        <text idx="1">The trigeminal nerve ganglia pass over the superior aspect of the petrous apex.</text>
+        <pt idx="1" />
+        <ne start="4" end="28" type="structure" status="human" />
+        <ne start="66" end="78" type="structure" status="human" />
+        <base-frame type="no-relation">
+          <slot start="4" end="20" type="structure" status="machine" />
+          <slot start="21" end="28" type="structure" status="machine" />
+        </base-frame>
+        <base-frame type="topological-connectivity">
+          <slot start="4" end="28" type="structure" status="human" />
+          <slot start="66" end="78" type="structure" status="human" />
+        </base-frame>
+      </sentence>
+    </document>
+    <document idx="147316" PMID="PMC5999448">
+      <sentence>
+        <text idx="2">EMG examination again showed that the amplitude of CMAPs in bilateral median nerve, bilateral ulnar nerve, bilateral tibial nerve, and bilateral peroneal nerve decreased.</text>
+        <pt idx="2" />
+        <ne start="70" end="82" type="structure" status="machine" />
+        <ne start="94" end="105" type="structure" status="machine" />
+        <ne start="117" end="129" type="structure" status="machine" />
+        <ne start="145" end="159" type="structure" status="human" />
+        <base-frame type="no-relation">
+          <slot start="70" end="82" type="structure" status="machine" />
+          <slot start="94" end="105" type="structure" status="machine" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="70" end="82" type="structure" status="machine" />
+          <slot start="117" end="129" type="structure" status="machine" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="70" end="82" type="structure" status="machine" />
+          <slot start="145" end="159" type="structure" status="human" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="94" end="105" type="structure" status="machine" />
+          <slot start="117" end="129" type="structure" status="machine" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="94" end="105" type="structure" status="machine" />
+          <slot start="145" end="159" type="structure" status="human" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="117" end="129" type="structure" status="machine" />
+          <slot start="145" end="159" type="structure" status="human" />
+        </base-frame>
+      </sentence>
+    </document>
+    <document idx="151342" PMID="PMC6344206">
+      <sentence>
+        <text idx="0">13–15]Normal breathing requires the integrity of cerebral cortex, brain stem, descending nerve pathways, motor nerves (especially the phrenic nerve), neuromuscular junction, and respiratory muscles section.</text>
+        <pt idx="0" />
+        <ne start="49" end="64" type="structure" status="machine" />
+        <ne start="66" end="76" type="structure" status="machine" />
+        <ne start="134" end="147" type="structure" status="human" />
+        <base-frame type="no-relation">
+          <slot start="49" end="64" type="structure" status="machine" />
+          <slot start="134" end="141" type="structure" status="machine" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="66" end="76" type="structure" status="machine" />
+          <slot start="134" end="141" type="structure" status="machine" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="49" end="64" type="structure" status="machine" />
+          <slot start="66" end="76" type="structure" status="machine" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="49" end="64" type="structure" status="machine" />
+          <slot start="134" end="147" type="structure" status="human" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="66" end="76" type="structure" status="machine" />
+          <slot start="134" end="147" type="structure" status="human" />
+        </base-frame>
+      </sentence>
+    </document>
+    <document idx="169211" PMID="PMC4806599">
+      <sentence>
+        <text idx="0">GnRH-ir fibers were identified throughout the bovine hypothalamus, with a high density of fibers found along the dbB, in and around the mPOA, lateral hypothalamus, OVLT, surrounding the bed nucleus of the stria terminalis (BNST), AHA, and lateral septum.</text>
+        <pt idx="0" />
+        <ne start="53" end="65" type="structure" status="machine" />
+        <ne start="136" end="140" type="structure" status="human" />
+        <ne start="142" end="162" type="structure" status="human" />
+        <ne start="164" end="168" type="structure" status="human" />
+        <ne start="186" end="221" type="structure" status="human" />
+        <ne start="230" end="233" type="structure" status="human" />
+        <ne start="239" end="253" type="structure" status="human" />
+        <base-frame type="anatomical-connectivity">
+          <slot start="53" end="65" type="structure" status="machine" />
+          <slot start="211" end="221" type="structure" status="machine" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="53" end="65" type="structure" status="machine" />
+          <slot start="136" end="140" type="structure" status="human" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="53" end="65" type="structure" status="machine" />
+          <slot start="142" end="162" type="structure" status="human" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="53" end="65" type="structure" status="machine" />
+          <slot start="164" end="168" type="structure" status="human" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="53" end="65" type="structure" status="machine" />
+          <slot start="186" end="221" type="structure" status="human" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="53" end="65" type="structure" status="machine" />
+          <slot start="230" end="233" type="structure" status="human" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="53" end="65" type="structure" status="machine" />
+          <slot start="239" end="253" type="structure" status="human" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="136" end="140" type="structure" status="human" />
+          <slot start="142" end="162" type="structure" status="human" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="136" end="140" type="structure" status="human" />
+          <slot start="164" end="168" type="structure" status="human" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="136" end="140" type="structure" status="human" />
+          <slot start="186" end="221" type="structure" status="human" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="136" end="140" type="structure" status="human" />
+          <slot start="230" end="233" type="structure" status="human" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="136" end="140" type="structure" status="human" />
+          <slot start="239" end="253" type="structure" status="human" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="142" end="162" type="structure" status="human" />
+          <slot start="164" end="168" type="structure" status="human" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="142" end="162" type="structure" status="human" />
+          <slot start="186" end="221" type="structure" status="human" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="142" end="162" type="structure" status="human" />
+          <slot start="230" end="233" type="structure" status="human" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="142" end="162" type="structure" status="human" />
+          <slot start="239" end="253" type="structure" status="human" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="164" end="168" type="structure" status="human" />
+          <slot start="186" end="221" type="structure" status="human" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="164" end="168" type="structure" status="human" />
+          <slot start="230" end="233" type="structure" status="human" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="164" end="168" type="structure" status="human" />
+          <slot start="239" end="253" type="structure" status="human" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="186" end="221" type="structure" status="human" />
+          <slot start="230" end="233" type="structure" status="human" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="186" end="221" type="structure" status="human" />
+          <slot start="239" end="253" type="structure" status="human" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="230" end="233" type="structure" status="human" />
+          <slot start="239" end="253" type="structure" status="human" />
+        </base-frame>
+      </sentence>
+    </document>
+    <document idx="169784" PMID="PMC6109373">
+      <sentence>
+        <text idx="8">The trigeminal nerve is the largest cranial nerve and is also located on the hindbrain projecting lateroventrally.</text>
+        <pt idx="8" />
+        <ne start="4" end="20" type="structure" status="machine" />
+        <ne start="36" end="49" type="structure" status="machine" />
+        <ne start="77" end="86" type="structure" status="machine" />
+        <base-frame type="no-relation">
+          <slot start="4" end="20" type="structure" status="machine" />
+          <slot start="36" end="49" type="structure" status="machine" />
+        </base-frame>
+        <base-frame type="topological-connectivity">
+          <slot start="4" end="20" type="structure" status="machine" />
+          <slot start="77" end="86" type="structure" status="machine" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="36" end="49" type="structure" status="machine" />
+          <slot start="77" end="86" type="structure" status="machine" />
+        </base-frame>
+      </sentence>
+    </document>
+    <document idx="172797" PMID="PMC6018178">
+      <sentence>
+        <text idx="2">Given a possibility of damage to the diaphragm, phrenic nerve, lungs, vessels or heart, it is crucial to choose a surgical plan after an informed consent is obtained from the patient.</text>
+        <pt idx="2" />
+        <ne start="37" end="46" type="structure" status="machine" />
+        <ne start="48" end="61" type="structure" status="machine" />
+        <ne start="63" end="68" type="structure" status="human" />
+        <ne start="81" end="86" type="structure" status="machine" />
+        <base-frame type="no-relation">
+          <slot start="37" end="46" type="structure" status="machine" />
+          <slot start="48" end="61" type="structure" status="machine" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="37" end="46" type="structure" status="machine" />
+          <slot start="63" end="68" type="structure" status="human" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="37" end="46" type="structure" status="machine" />
+          <slot start="81" end="86" type="structure" status="machine" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="48" end="61" type="structure" status="machine" />
+          <slot start="63" end="68" type="structure" status="human" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="48" end="61" type="structure" status="machine" />
+          <slot start="81" end="86" type="structure" status="machine" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="63" end="68" type="structure" status="human" />
+          <slot start="81" end="86" type="structure" status="machine" />
+        </base-frame>
+      </sentence>
+    </document>
+    <document idx="180019" PMID="PMC6027706">
+      <sentence>
+        <text idx="0">Moreover, we cultivated primary sympathetic neurons from superior cervical ganglion neurons (SCGNs) to study the effect of BoNT/A on the sympathetic nerve system and tried to explore its mechanism through the protein level.</text>
+        <pt idx="0" />
+        <ne start="57" end="83" type="structure" status="machine" />
+        <ne start="137" end="154" type="structure" status="machine" />
+        <base-frame type="no-relation">
+          <slot start="57" end="83" type="structure" status="machine" />
+          <slot start="137" end="154" type="structure" status="machine" />
+        </base-frame>
+      </sentence>
+    </document>
+    <document idx="183464" PMID="PMC4708301">
+      <sentence>
+        <text idx="4">The efferent portion of the circuit exits the spinal cord via the perineal nerve to terminate on muscle fibers of the bulbospongiosus muscle for somatic reflex control of these muscles leading to ejaculation (12).</text>
+        <pt idx="4" />
+        <ne start="46" end="57" type="structure" status="machine" />
+        <ne start="66" end="80" type="structure" status="machine" />
+        <base-frame type="anatomical-connectivity">
+          <slot start="46" end="57" type="structure" status="machine" />
+          <slot start="66" end="80" type="structure" status="machine" />
+        </base-frame>
+      </sentence>
+    </document>
+    <document idx="196325" PMID="PMC3644765">
+      <sentence>
+        <text idx="5">This is important for two reasons, firstly, there is a need to know if the neuralgic pain is typically glossopharyngeal or it involves the other cranial nerves like the trigeminal nerve or nervus intermedius.</text>
+        <pt idx="5" />
+        <ne start="145" end="159" type="structure" status="machine" />
+        <ne start="169" end="185" type="structure" status="machine" />
+        <ne start="189" end="207" type="structure" status="human" />
+        <base-frame type="no-relation">
+          <slot start="145" end="159" type="structure" status="machine" />
+          <slot start="169" end="185" type="structure" status="machine" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="145" end="159" type="structure" status="machine" />
+          <slot start="189" end="207" type="structure" status="human" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="169" end="185" type="structure" status="machine" />
+          <slot start="189" end="207" type="structure" status="human" />
+        </base-frame>
+      </sentence>
+    </document>
+  </file>
+</index>

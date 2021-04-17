@@ -1,0 +1,849 @@
+<index>
+  <!--Created by sciscore.relation.annotator.RelationAnnotator at Fri Feb 19 14:51:09 PST 2021-->
+  <file xml="" in="" out="">
+    <document idx="7508" PMID="PMC3709131">
+      <sentence>
+        <text idx="2">The result is the generation of a chain of neuronal events that cause signalling through selective centres in the brain stem to the descending fibres of the hepatic branch of the vagus nerve to the liver, leading to suppression of hepatic glucose production 27.</text>
+        <pt idx="2" />
+        <ne start="114" end="124" type="structure" status="machine" />
+        <ne start="179" end="190" type="structure" status="machine" />
+        <ne start="198" end="203" type="structure" status="machine" />
+        <base-frame type="anatomical-connectivity">
+          <slot start="114" end="124" type="structure" status="machine" />
+          <slot start="179" end="190" type="structure" status="machine" />
+        </base-frame>
+        <base-frame type="anatomical-connectivity">
+          <slot start="114" end="124" type="structure" status="machine" />
+          <slot start="198" end="203" type="structure" status="machine" />
+        </base-frame>
+        <base-frame type="anatomical-connectivity">
+          <slot start="179" end="190" type="structure" status="machine" />
+          <slot start="198" end="203" type="structure" status="machine" />
+        </base-frame>
+      </sentence>
+    </document>
+    <document idx="13626" PMID="PMC3314977">
+      <sentence>
+        <text idx="2">The effect of sympathetic nerve stimulation or galanin on the heart rate response to vagal nerve stimulation was compared to those of the stable analogue of acetylcholine carbamylcholine (90 nM, Sigma) to determine whether the effects were pre or postsynaptic.</text>
+        <pt idx="2" />
+        <ne start="14" end="31" type="structure" status="machine" />
+        <ne start="62" end="67" type="structure" status="machine" />
+        <ne start="85" end="96" type="structure" status="machine" />
+        <base-frame type="functional-connectivity">
+          <slot start="14" end="31" type="structure" status="machine" />
+          <slot start="62" end="67" type="structure" status="machine" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="14" end="31" type="structure" status="machine" />
+          <slot start="85" end="96" type="structure" status="machine" />
+        </base-frame>
+        <base-frame type="functional-connectivity">
+          <slot start="62" end="67" type="structure" status="machine" />
+          <slot start="85" end="96" type="structure" status="machine" />
+        </base-frame>
+      </sentence>
+    </document>
+    <document idx="17348" PMID="PMC4150387">
+      <sentence>
+        <text idx="0">A potential internal information route on emotional behavior was first recognized in 2001 where nutrients from gut were relayed to the brain by the vagus nerve affecting emotions (Zagon, 2001).</text>
+        <pt idx="0" />
+        <ne start="111" end="114" type="structure" status="human" />
+        <ne start="135" end="140" type="structure" status="machine" />
+        <ne start="148" end="159" type="structure" status="machine" />
+        <base-frame type="functional-connectivity">
+          <slot start="111" end="114" type="structure" status="human" />
+          <slot start="135" end="140" type="structure" status="machine" />
+        </base-frame>
+        <base-frame type="anatomical-connectivity">
+          <slot start="111" end="114" type="structure" status="human" />
+          <slot start="148" end="159" type="structure" status="machine" />
+        </base-frame>
+        <base-frame type="anatomical-connectivity">
+          <slot start="135" end="140" type="structure" status="machine" />
+          <slot start="148" end="159" type="structure" status="machine" />
+        </base-frame>
+      </sentence>
+    </document>
+    <document idx="19814" PMID="PMC6848658">
+      <sentence>
+        <text idx="1">The vagus nerve, the longest autonomic nerve, mediates about 75% of all parasympathetic nervous system (PNS) activity [9].</text>
+        <pt idx="1" />
+        <ne start="4" end="15" type="structure" status="machine" />
+        <ne start="29" end="44" type="structure" status="machine" />
+        <ne start="72" end="102" type="structure" status="human" />
+        <base-frame type="no-relation">
+          <slot start="4" end="15" type="structure" status="machine" />
+          <slot start="29" end="44" type="structure" status="machine" />
+        </base-frame>
+        <base-frame type="general-connectivity">
+          <slot start="4" end="15" type="structure" status="machine" />
+          <slot start="72" end="102" type="structure" status="human" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="29" end="44" type="structure" status="machine" />
+          <slot start="72" end="102" type="structure" status="human" />
+        </base-frame>
+      </sentence>
+    </document>
+    <document idx="27774" PMID="PMC7049838">
+      <sentence>
+        <text idx="1">Standard mastoidectomy is done, and the facial nerve is decompressed from internal auditory meatus to geniculate ganglion.</text>
+        <pt idx="1" />
+        <ne start="40" end="52" type="structure" status="machine" />
+        <ne start="102" end="121" type="structure" status="machine" />
+        <base-frame type="no-relation">
+          <slot start="40" end="52" type="structure" status="machine" />
+          <slot start="102" end="121" type="structure" status="machine" />
+        </base-frame>
+      </sentence>
+    </document>
+    <document idx="58947" PMID="PMC4873927">
+      <sentence>
+        <text idx="0">It allows vascularised fascia lata to be used for static facial resuspension or the lateral cutaneous femoral nerve for either sensory innervation of the flap or an interpositional facial nerve graft.</text>
+        <pt idx="0" />
+        <ne start="84" end="115" type="structure" status="human" />
+        <ne start="181" end="193" type="structure" status="machine" />
+        <base-frame type="anatomical-connectivity">
+          <slot start="102" end="115" type="structure" status="machine" />
+          <slot start="181" end="193" type="structure" status="machine" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="84" end="115" type="structure" status="human" />
+          <slot start="181" end="193" type="structure" status="machine" />
+        </base-frame>
+      </sentence>
+    </document>
+    <document idx="66417" PMID="PMC5118621">
+      <sentence>
+        <text idx="3">In addition, we want to suggest that anteromedial division of the bed nucleus of the stria terminalis contains the human limbic equivalent of the lamprey habenula-projecting globus pallidus (GPh).</text>
+        <pt idx="3" />
+        <ne start="66" end="101" type="structure" status="human" />
+        <ne start="174" end="189" type="structure" status="machine" />
+        <base-frame type="anatomical-connectivity">
+          <slot start="91" end="101" type="structure" status="machine" />
+          <slot start="174" end="189" type="structure" status="machine" />
+        </base-frame>
+        <base-frame type="general-connectivity">
+          <slot start="66" end="101" type="structure" status="human" />
+          <slot start="174" end="189" type="structure" status="machine" />
+        </base-frame>
+      </sentence>
+    </document>
+    <document idx="66418" PMID="PMC5829545">
+      <sentence>
+        <text idx="0">A midline ventral cut was made, and the common carotid artery (CCA) was separated from the vagus nerve and ligated with a 4-0 silk suture (Cat # SP116; Harvard Apparatus, Holliston, MA, USA).</text>
+        <pt idx="0" />
+        <ne start="40" end="61" type="structure" status="machine" />
+        <ne start="91" end="102" type="structure" status="machine" />
+        <base-frame type="anatomical-connectivity">
+          <slot start="40" end="61" type="structure" status="machine" />
+          <slot start="91" end="102" type="structure" status="machine" />
+        </base-frame>
+      </sentence>
+    </document>
+    <document idx="66458" PMID="PMC5487424">
+      <sentence>
+        <text idx="0">A large proportion of the vagus nerve neurons projecting to the liver are suppressed by D-glucose, while a large proportion of the vagus nerve neurons projecting to the upper gastrointestinal tract are excited by D-glucose (Grabauskas et al., 2010).</text>
+        <pt idx="0" />
+        <ne start="26" end="37" type="structure" status="machine" />
+        <ne start="64" end="69" type="structure" status="machine" />
+        <ne start="131" end="142" type="structure" status="machine" />
+        <ne start="169" end="197" type="structure" status="human" />
+        <base-frame type="anatomical-connectivity">
+          <slot start="26" end="37" type="structure" status="machine" />
+          <slot start="64" end="69" type="structure" status="machine" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="26" end="37" type="structure" status="machine" />
+          <slot start="131" end="142" type="structure" status="machine" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="26" end="37" type="structure" status="machine" />
+          <slot start="169" end="197" type="structure" status="human" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="64" end="69" type="structure" status="machine" />
+          <slot start="131" end="142" type="structure" status="machine" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="64" end="69" type="structure" status="machine" />
+          <slot start="169" end="197" type="structure" status="human" />
+        </base-frame>
+        <base-frame type="anatomical-connectivity">
+          <slot start="131" end="142" type="structure" status="machine" />
+          <slot start="169" end="197" type="structure" status="human" />
+        </base-frame>
+      </sentence>
+    </document>
+    <document idx="68518" PMID="PMC6460483">
+      <sentence>
+        <text idx="5">Cholinergic neurons residing in the brainstem dorsal motor nucleus of the vagus (DMN) and nucleus ambiguus (NA) provide peripheral axonal projections within the vagus nerve (Figure 1).</text>
+        <pt idx="5" />
+        <ne start="36" end="45" type="structure" status="machine" />
+        <ne start="46" end="79" type="structure" status="human" />
+        <ne start="90" end="106" type="structure" status="machine" />
+        <ne start="161" end="172" type="structure" status="machine" />
+        <base-frame type="no-relation">
+          <slot start="36" end="45" type="structure" status="machine" />
+          <slot start="74" end="79" type="structure" status="machine" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="74" end="79" type="structure" status="machine" />
+          <slot start="90" end="106" type="structure" status="machine" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="74" end="79" type="structure" status="machine" />
+          <slot start="161" end="172" type="structure" status="machine" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="36" end="45" type="structure" status="machine" />
+          <slot start="46" end="79" type="structure" status="human" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="36" end="45" type="structure" status="machine" />
+          <slot start="90" end="106" type="structure" status="machine" />
+        </base-frame>
+        <base-frame type="anatomical-connectivity">
+          <slot start="36" end="45" type="structure" status="machine" />
+          <slot start="161" end="172" type="structure" status="machine" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="46" end="79" type="structure" status="human" />
+          <slot start="90" end="106" type="structure" status="machine" />
+        </base-frame>
+        <base-frame type="anatomical-connectivity">
+          <slot start="46" end="79" type="structure" status="human" />
+          <slot start="161" end="172" type="structure" status="machine" />
+        </base-frame>
+        <base-frame type="anatomical-connectivity">
+          <slot start="90" end="106" type="structure" status="machine" />
+          <slot start="161" end="172" type="structure" status="machine" />
+        </base-frame>
+      </sentence>
+    </document>
+    <document idx="68599" PMID="PMC6491838">
+      <sentence>
+        <text idx="4">The vagus nerve exists as a pair of mixed (meaning they provide both motor and sensory innervation) cranial nerves composed mainly of parasympathetic fibers that are essential in controlling the parasympathetic component of the autonomic nervous system (ANS).</text>
+        <pt idx="4" />
+        <ne start="4" end="15" type="structure" status="machine" />
+        <ne start="100" end="114" type="structure" status="machine" />
+        <ne start="228" end="252" type="structure" status="human" />
+        <base-frame type="no-relation">
+          <slot start="4" end="15" type="structure" status="machine" />
+          <slot start="100" end="114" type="structure" status="machine" />
+        </base-frame>
+        <base-frame type="anatomical-connectivity">
+          <slot start="4" end="15" type="structure" status="machine" />
+          <slot start="228" end="252" type="structure" status="human" />
+        </base-frame>
+        <base-frame type="anatomical-connectivity">
+          <slot start="100" end="114" type="structure" status="machine" />
+          <slot start="228" end="252" type="structure" status="human" />
+        </base-frame>
+      </sentence>
+    </document>
+    <document idx="68617" PMID="PMC6070635">
+      <sentence>
+        <text idx="1">Electrical stimuli generated from a constant current stimulator (DS4, Digitimer Ltd.) were delivered proximally to the sciatic nerve at the sciatic notch (Figures 1A,B) and distal to the tibial nerve at the ankle (Figures 1A,C).</text>
+        <pt idx="1" />
+        <ne start="119" end="132" type="structure" status="machine" />
+        <ne start="187" end="199" type="structure" status="machine" />
+        <base-frame type="no-relation">
+          <slot start="119" end="132" type="structure" status="machine" />
+          <slot start="187" end="199" type="structure" status="machine" />
+        </base-frame>
+      </sentence>
+    </document>
+    <document idx="70521" PMID="PMC4500783">
+      <sentence>
+        <text idx="0">The most commonly affected site was the thoracic vertebra, reported by 530 subjects (47.9%), followed by the trigeminal ganglion reported by 237 subjects (21.4%) [ophthalmic nerve, 164 subjects (69.2%), maxillary nerve, 57 subjects (24.0%), and mandibular nerve, 16 subjects (6.8%)] (Fig. 4).</text>
+        <pt idx="0" />
+        <ne start="40" end="57" type="structure" status="human" />
+        <ne start="109" end="128" type="structure" status="machine" />
+        <ne start="163" end="179" type="structure" status="human" />
+        <ne start="203" end="218" type="structure" status="machine" />
+        <ne start="245" end="261" type="structure" status="machine" />
+        <base-frame type="no-relation">
+          <slot start="40" end="57" type="structure" status="human" />
+          <slot start="109" end="128" type="structure" status="machine" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="40" end="57" type="structure" status="human" />
+          <slot start="163" end="179" type="structure" status="human" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="40" end="57" type="structure" status="human" />
+          <slot start="203" end="218" type="structure" status="machine" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="40" end="57" type="structure" status="human" />
+          <slot start="245" end="261" type="structure" status="machine" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="109" end="128" type="structure" status="machine" />
+          <slot start="163" end="179" type="structure" status="human" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="109" end="128" type="structure" status="machine" />
+          <slot start="203" end="218" type="structure" status="machine" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="109" end="128" type="structure" status="machine" />
+          <slot start="245" end="261" type="structure" status="machine" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="163" end="179" type="structure" status="human" />
+          <slot start="203" end="218" type="structure" status="machine" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="163" end="179" type="structure" status="human" />
+          <slot start="245" end="261" type="structure" status="machine" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="203" end="218" type="structure" status="machine" />
+          <slot start="245" end="261" type="structure" status="machine" />
+        </base-frame>
+      </sentence>
+    </document>
+    <document idx="82854" PMID="PMC5414146">
+      <sentence>
+        <text idx="1">Neuropathological involvement in the autonomic ganglion of the heart and autonomic neurons of the spinal cord has also been detected in postmortem studies of individuals with FXTAS [103, 104].</text>
+        <pt idx="1" />
+        <ne start="37" end="55" type="structure" status="machine" />
+        <ne start="63" end="68" type="structure" status="machine" />
+        <ne start="98" end="109" type="structure" status="machine" />
+        <base-frame type="no-relation">
+          <slot start="37" end="55" type="structure" status="machine" />
+          <slot start="63" end="68" type="structure" status="machine" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="37" end="55" type="structure" status="machine" />
+          <slot start="98" end="109" type="structure" status="machine" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="63" end="68" type="structure" status="machine" />
+          <slot start="98" end="109" type="structure" status="machine" />
+        </base-frame>
+      </sentence>
+    </document>
+    <document idx="93763" PMID="PMC7139542">
+      <sentence>
+        <text idx="1">CRH is also present in limbic structures and other brain regions related to the stress response such as the bed nucleus of the stria terminalis, the central nucleus of the amygdala, the locus coeruleus, the cerebral cortex, the cerebellum, and the dorsal root neurons of the spinal cord.</text>
+        <pt idx="1" />
+        <ne start="51" end="56" type="structure" status="machine" />
+        <ne start="108" end="143" type="structure" status="human" />
+        <ne start="149" end="180" type="structure" status="human" />
+        <ne start="186" end="201" type="structure" status="machine" />
+        <ne start="207" end="222" type="structure" status="machine" />
+        <ne start="228" end="238" type="structure" status="machine" />
+        <ne start="248" end="286" type="structure" status="human" />
+        <base-frame type="no-relation">
+          <slot start="51" end="56" type="structure" status="machine" />
+          <slot start="133" end="143" type="structure" status="machine" />
+        </base-frame>
+        <base-frame type="anatomical-connectivity">
+          <slot start="133" end="143" type="structure" status="machine" />
+          <slot start="186" end="201" type="structure" status="machine" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="133" end="143" type="structure" status="machine" />
+          <slot start="207" end="222" type="structure" status="machine" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="133" end="143" type="structure" status="machine" />
+          <slot start="228" end="238" type="structure" status="machine" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="133" end="143" type="structure" status="machine" />
+          <slot start="275" end="286" type="structure" status="machine" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="51" end="56" type="structure" status="machine" />
+          <slot start="275" end="286" type="structure" status="machine" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="186" end="201" type="structure" status="machine" />
+          <slot start="275" end="286" type="structure" status="machine" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="207" end="222" type="structure" status="machine" />
+          <slot start="275" end="286" type="structure" status="machine" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="228" end="238" type="structure" status="machine" />
+          <slot start="275" end="286" type="structure" status="machine" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="51" end="56" type="structure" status="machine" />
+          <slot start="108" end="143" type="structure" status="human" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="51" end="56" type="structure" status="machine" />
+          <slot start="149" end="180" type="structure" status="human" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="51" end="56" type="structure" status="machine" />
+          <slot start="186" end="201" type="structure" status="machine" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="51" end="56" type="structure" status="machine" />
+          <slot start="207" end="222" type="structure" status="machine" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="51" end="56" type="structure" status="machine" />
+          <slot start="228" end="238" type="structure" status="machine" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="51" end="56" type="structure" status="machine" />
+          <slot start="248" end="286" type="structure" status="human" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="108" end="143" type="structure" status="human" />
+          <slot start="149" end="180" type="structure" status="human" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="108" end="143" type="structure" status="human" />
+          <slot start="186" end="201" type="structure" status="machine" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="108" end="143" type="structure" status="human" />
+          <slot start="207" end="222" type="structure" status="machine" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="108" end="143" type="structure" status="human" />
+          <slot start="228" end="238" type="structure" status="machine" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="108" end="143" type="structure" status="human" />
+          <slot start="248" end="286" type="structure" status="human" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="149" end="180" type="structure" status="human" />
+          <slot start="186" end="201" type="structure" status="machine" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="149" end="180" type="structure" status="human" />
+          <slot start="207" end="222" type="structure" status="machine" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="149" end="180" type="structure" status="human" />
+          <slot start="228" end="238" type="structure" status="machine" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="149" end="180" type="structure" status="human" />
+          <slot start="248" end="286" type="structure" status="human" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="186" end="201" type="structure" status="machine" />
+          <slot start="207" end="222" type="structure" status="machine" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="186" end="201" type="structure" status="machine" />
+          <slot start="228" end="238" type="structure" status="machine" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="186" end="201" type="structure" status="machine" />
+          <slot start="248" end="286" type="structure" status="human" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="207" end="222" type="structure" status="machine" />
+          <slot start="228" end="238" type="structure" status="machine" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="207" end="222" type="structure" status="machine" />
+          <slot start="248" end="286" type="structure" status="human" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="228" end="238" type="structure" status="machine" />
+          <slot start="248" end="286" type="structure" status="human" />
+        </base-frame>
+      </sentence>
+    </document>
+    <document idx="94263" PMID="PMC7139433">
+      <sentence>
+        <text idx="3">This finding indicates that the processing of pleasant emotions in facial nerve paralysis patients are significantly different from those in healthy controls, and this difference is more pronounced than differences between the brain responses evoked by unpleasant or neutral stimuli.</text>
+        <pt idx="3" />
+        <ne start="67" end="79" type="structure" status="machine" />
+        <ne start="227" end="232" type="structure" status="machine" />
+        <base-frame type="no-relation">
+          <slot start="67" end="79" type="structure" status="machine" />
+          <slot start="227" end="232" type="structure" status="machine" />
+        </base-frame>
+      </sentence>
+    </document>
+    <document idx="117492" PMID="PMC5871829">
+      <sentence>
+        <text idx="1">The median nerve, ulnar nerve, tibial nerve and sural nerve sensory and motor nerve conduction velocity of patients were routinely detected.</text>
+        <pt idx="1" />
+        <ne start="4" end="16" type="structure" status="machine" />
+        <ne start="18" end="29" type="structure" status="machine" />
+        <ne start="31" end="43" type="structure" status="machine" />
+        <ne start="48" end="59" type="structure" status="machine" />
+        <base-frame type="no-relation">
+          <slot start="4" end="16" type="structure" status="machine" />
+          <slot start="18" end="29" type="structure" status="machine" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="4" end="16" type="structure" status="machine" />
+          <slot start="31" end="43" type="structure" status="machine" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="4" end="16" type="structure" status="machine" />
+          <slot start="48" end="59" type="structure" status="machine" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="18" end="29" type="structure" status="machine" />
+          <slot start="31" end="43" type="structure" status="machine" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="18" end="29" type="structure" status="machine" />
+          <slot start="48" end="59" type="structure" status="machine" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="31" end="43" type="structure" status="machine" />
+          <slot start="48" end="59" type="structure" status="machine" />
+        </base-frame>
+      </sentence>
+    </document>
+    <document idx="127264" PMID="PMC6953314">
+      <sentence>
+        <text idx="3">The dorsal motor nucleus is activated after interconnecting with nucleus tractus solitarius, and further drives the excitation of efferent vagus nerve for Ach release [102, 103].</text>
+        <pt idx="3" />
+        <ne start="4" end="24" type="structure" status="human" />
+        <ne start="65" end="91" type="structure" status="machine" />
+        <ne start="139" end="150" type="structure" status="machine" />
+        <base-frame type="anatomical-connectivity">
+          <slot start="4" end="24" type="structure" status="human" />
+          <slot start="65" end="91" type="structure" status="machine" />
+        </base-frame>
+        <base-frame type="anatomical-connectivity">
+          <slot start="4" end="24" type="structure" status="human" />
+          <slot start="139" end="150" type="structure" status="machine" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="65" end="91" type="structure" status="machine" />
+          <slot start="139" end="150" type="structure" status="machine" />
+        </base-frame>
+      </sentence>
+    </document>
+    <document idx="128302" PMID="PMC7525232">
+      <sentence>
+        <text idx="5">Toward this end, SARS-CoV-2 may enter the CNS via the vagus nerve, a cranial nerve that regulates parasympathetic control of the heart, lungs, and GI tract.</text>
+        <pt idx="5" />
+        <ne start="42" end="45" type="structure" status="human" />
+        <ne start="54" end="65" type="structure" status="machine" />
+        <ne start="69" end="82" type="structure" status="machine" />
+        <ne start="129" end="134" type="structure" status="machine" />
+        <ne start="136" end="141" type="structure" status="human" />
+        <ne start="147" end="155" type="structure" status="human" />
+        <base-frame type="anatomical-connectivity">
+          <slot start="42" end="45" type="structure" status="human" />
+          <slot start="54" end="65" type="structure" status="machine" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="42" end="45" type="structure" status="human" />
+          <slot start="69" end="82" type="structure" status="machine" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="42" end="45" type="structure" status="human" />
+          <slot start="129" end="134" type="structure" status="machine" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="42" end="45" type="structure" status="human" />
+          <slot start="136" end="141" type="structure" status="human" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="42" end="45" type="structure" status="human" />
+          <slot start="147" end="155" type="structure" status="human" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="54" end="65" type="structure" status="machine" />
+          <slot start="69" end="82" type="structure" status="machine" />
+        </base-frame>
+        <base-frame type="functional-connectivity">
+          <slot start="54" end="65" type="structure" status="machine" />
+          <slot start="129" end="134" type="structure" status="machine" />
+        </base-frame>
+        <base-frame type="functional-connectivity">
+          <slot start="54" end="65" type="structure" status="machine" />
+          <slot start="136" end="141" type="structure" status="human" />
+        </base-frame>
+        <base-frame type="functional-connectivity">
+          <slot start="54" end="65" type="structure" status="machine" />
+          <slot start="147" end="155" type="structure" status="human" />
+        </base-frame>
+        <base-frame type="functional-connectivity">
+          <slot start="69" end="82" type="structure" status="machine" />
+          <slot start="129" end="134" type="structure" status="machine" />
+        </base-frame>
+        <base-frame type="functional-connectivity">
+          <slot start="69" end="82" type="structure" status="machine" />
+          <slot start="136" end="141" type="structure" status="human" />
+        </base-frame>
+        <base-frame type="functional-connectivity">
+          <slot start="69" end="82" type="structure" status="machine" />
+          <slot start="147" end="155" type="structure" status="human" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="129" end="134" type="structure" status="machine" />
+          <slot start="136" end="141" type="structure" status="human" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="129" end="134" type="structure" status="machine" />
+          <slot start="147" end="155" type="structure" status="human" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="136" end="141" type="structure" status="human" />
+          <slot start="147" end="155" type="structure" status="human" />
+        </base-frame>
+      </sentence>
+    </document>
+    <document idx="130192" PMID="PMC4843897">
+      <sentence>
+        <text idx="8">(B) NTS nucleus of the solitary tract NTG caudal nucleus of the trigeminal nerve.</text>
+        <pt idx="8" />
+        <ne start="8" end="37" type="structure" status="machine" />
+        <ne start="64" end="80" type="structure" status="machine" />
+        <base-frame type="no-relation">
+          <slot start="8" end="37" type="structure" status="machine" />
+          <slot start="64" end="80" type="structure" status="machine" />
+        </base-frame>
+      </sentence>
+    </document>
+    <document idx="133599" PMID="PMC4074311">
+      <sentence>
+        <text idx="0">Genome-wide methylation and expression profiling were carried out for two sexually dimorphic brain regions: the striatum and the combined bed nucleus of the stria terminalis and preoptic area (BNST/POA).</text>
+        <pt idx="0" />
+        <ne start="93" end="98" type="structure" status="machine" />
+        <ne start="112" end="120" type="structure" status="machine" />
+        <ne start="138" end="173" type="structure" status="human" />
+        <ne start="178" end="191" type="structure" status="machine" />
+        <base-frame type="no-relation">
+          <slot start="93" end="98" type="structure" status="machine" />
+          <slot start="163" end="173" type="structure" status="machine" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="112" end="120" type="structure" status="machine" />
+          <slot start="163" end="173" type="structure" status="machine" />
+        </base-frame>
+        <base-frame type="anatomical-connectivity">
+          <slot start="163" end="173" type="structure" status="machine" />
+          <slot start="178" end="191" type="structure" status="machine" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="93" end="98" type="structure" status="machine" />
+          <slot start="112" end="120" type="structure" status="machine" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="93" end="98" type="structure" status="machine" />
+          <slot start="138" end="173" type="structure" status="human" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="93" end="98" type="structure" status="machine" />
+          <slot start="178" end="191" type="structure" status="machine" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="112" end="120" type="structure" status="machine" />
+          <slot start="138" end="173" type="structure" status="human" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="112" end="120" type="structure" status="machine" />
+          <slot start="178" end="191" type="structure" status="machine" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="138" end="173" type="structure" status="human" />
+          <slot start="178" end="191" type="structure" status="machine" />
+        </base-frame>
+      </sentence>
+    </document>
+    <document idx="133721" PMID="PMC5360847">
+      <sentence>
+        <text idx="0">In addition, these neurons project directly to other brain regions including the amygdala, striatum, hippocampus, bed nucleus of the stria terminalis, and the suprachiasmatic nucleus [9].</text>
+        <pt idx="0" />
+        <ne start="53" end="58" type="structure" status="machine" />
+        <ne start="81" end="89" type="structure" status="human" />
+        <ne start="91" end="99" type="structure" status="machine" />
+        <ne start="101" end="112" type="structure" status="human" />
+        <ne start="114" end="149" type="structure" status="human" />
+        <ne start="159" end="182" type="structure" status="machine" />
+        <base-frame type="no-relation">
+          <slot start="53" end="58" type="structure" status="machine" />
+          <slot start="139" end="149" type="structure" status="machine" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="91" end="99" type="structure" status="machine" />
+          <slot start="139" end="149" type="structure" status="machine" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="139" end="149" type="structure" status="machine" />
+          <slot start="159" end="182" type="structure" status="machine" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="53" end="58" type="structure" status="machine" />
+          <slot start="81" end="89" type="structure" status="human" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="53" end="58" type="structure" status="machine" />
+          <slot start="91" end="99" type="structure" status="machine" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="53" end="58" type="structure" status="machine" />
+          <slot start="101" end="112" type="structure" status="human" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="53" end="58" type="structure" status="machine" />
+          <slot start="114" end="149" type="structure" status="human" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="53" end="58" type="structure" status="machine" />
+          <slot start="159" end="182" type="structure" status="machine" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="81" end="89" type="structure" status="human" />
+          <slot start="91" end="99" type="structure" status="machine" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="81" end="89" type="structure" status="human" />
+          <slot start="101" end="112" type="structure" status="human" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="81" end="89" type="structure" status="human" />
+          <slot start="114" end="149" type="structure" status="human" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="81" end="89" type="structure" status="human" />
+          <slot start="159" end="182" type="structure" status="machine" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="91" end="99" type="structure" status="machine" />
+          <slot start="101" end="112" type="structure" status="human" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="91" end="99" type="structure" status="machine" />
+          <slot start="114" end="149" type="structure" status="human" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="91" end="99" type="structure" status="machine" />
+          <slot start="159" end="182" type="structure" status="machine" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="101" end="112" type="structure" status="human" />
+          <slot start="114" end="149" type="structure" status="human" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="101" end="112" type="structure" status="human" />
+          <slot start="159" end="182" type="structure" status="machine" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="114" end="149" type="structure" status="human" />
+          <slot start="159" end="182" type="structure" status="machine" />
+        </base-frame>
+      </sentence>
+    </document>
+    <document idx="153824" PMID="PMC6078673">
+      <sentence>
+        <text idx="0">Besides, the electromyogram (EMG) examination showed that the left lower tibial nerve, peroneal nerve, and sural nerve of the patient were damaged partially, which further affected the function of muscles and the proprioception.</text>
+        <pt idx="0" />
+        <ne start="62" end="85" type="structure" status="human" />
+        <ne start="87" end="101" type="structure" status="human" />
+        <ne start="107" end="118" type="structure" status="machine" />
+        <base-frame type="anatomical-connectivity">
+          <slot start="73" end="85" type="structure" status="machine" />
+          <slot start="107" end="118" type="structure" status="machine" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="62" end="85" type="structure" status="human" />
+          <slot start="87" end="101" type="structure" status="human" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="62" end="85" type="structure" status="human" />
+          <slot start="107" end="118" type="structure" status="machine" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="87" end="101" type="structure" status="human" />
+          <slot start="107" end="118" type="structure" status="machine" />
+        </base-frame>
+      </sentence>
+    </document>
+    <document idx="177114" PMID="PMC7327137">
+      <sentence>
+        <text idx="0">The phrenic nerve originates in the neck (C3-C5) and passes down between the lung and heart to reach the diaphragm.</text>
+        <pt idx="0" />
+        <ne start="4" end="17" type="structure" status="machine" />
+        <ne start="36" end="40" type="structure" status="human" />
+        <ne start="77" end="81" type="structure" status="machine" />
+        <ne start="86" end="91" type="structure" status="machine" />
+        <ne start="105" end="114" type="structure" status="machine" />
+        <base-frame type="topological-connectivity">
+          <slot start="4" end="17" type="structure" status="machine" />
+          <slot start="36" end="40" type="structure" status="human" />
+        </base-frame>
+        <base-frame type="topological-connectivity">
+          <slot start="4" end="17" type="structure" status="machine" />
+          <slot start="77" end="81" type="structure" status="machine" />
+        </base-frame>
+        <base-frame type="topological-connectivity">
+          <slot start="4" end="17" type="structure" status="machine" />
+          <slot start="86" end="91" type="structure" status="machine" />
+        </base-frame>
+        <base-frame type="anatomical-connectivity">
+          <slot start="4" end="17" type="structure" status="machine" />
+          <slot start="105" end="114" type="structure" status="machine" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="36" end="40" type="structure" status="human" />
+          <slot start="77" end="81" type="structure" status="machine" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="36" end="40" type="structure" status="human" />
+          <slot start="86" end="91" type="structure" status="machine" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="36" end="40" type="structure" status="human" />
+          <slot start="105" end="114" type="structure" status="machine" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="77" end="81" type="structure" status="machine" />
+          <slot start="86" end="91" type="structure" status="machine" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="77" end="81" type="structure" status="machine" />
+          <slot start="105" end="114" type="structure" status="machine" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="86" end="91" type="structure" status="machine" />
+          <slot start="105" end="114" type="structure" status="machine" />
+        </base-frame>
+      </sentence>
+    </document>
+    <document idx="184684" PMID="PMC6773902">
+      <sentence>
+        <text idx="7">It could be considered a pseudo ansa cervicalis if the superior or inferior roots arise from the vagus nerve and the superior cervical sympathetic ganglion, respectively [34].</text>
+        <pt idx="7" />
+        <ne start="32" end="47" type="structure" status="machine" />
+        <ne start="97" end="108" type="structure" status="machine" />
+        <ne start="117" end="155" type="structure" status="human" />
+        <base-frame type="no-relation">
+          <slot start="32" end="47" type="structure" status="machine" />
+          <slot start="147" end="155" type="structure" status="machine" />
+        </base-frame>
+        <base-frame type="anatomical-connectivity">
+          <slot start="97" end="108" type="structure" status="machine" />
+          <slot start="147" end="155" type="structure" status="machine" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="32" end="47" type="structure" status="machine" />
+          <slot start="97" end="108" type="structure" status="machine" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="32" end="47" type="structure" status="machine" />
+          <slot start="117" end="155" type="structure" status="human" />
+        </base-frame>
+        <base-frame type="no-relation">
+          <slot start="97" end="108" type="structure" status="machine" />
+          <slot start="117" end="155" type="structure" status="human" />
+        </base-frame>
+      </sentence>
+    </document>
+  </file>
+</index>
