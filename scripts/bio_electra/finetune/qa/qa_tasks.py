@@ -607,15 +607,6 @@ class SQuADv1(SQuADTask):
   def __init__(self, config: configure_finetuning.FinetuningConfig, tokenizer):
     super(SQuADv1, self).__init__(config, "squadv1", tokenizer)
 
-# IBO
-class BioASQ(SQuADTask):
-  def __init__(self, config: configure_finetuning.FinetuningConfig, tokenizer):
-    super(BioASQ, self).__init__(config, "bioasq", tokenizer)
-
-class BioASQ2(SQuADTask):
-  def __init__(self, config: configure_finetuning.FinetuningConfig, tokenizer):
-    super(BioASQ2, self).__init__(config, "bioasq2", tokenizer)
-
 class NewsQA(MRQATask):
   def __init__(self, config: configure_finetuning.FinetuningConfig, tokenizer):
     super(NewsQA, self).__init__(config, "newsqa", tokenizer)

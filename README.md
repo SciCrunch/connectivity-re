@@ -33,8 +33,8 @@ pip install hyperopt
 
 ## Download Bio-ELECTRA models
 
-
-The pre-trained Bio-ELECTRA and Bio-ELECTRA++ small ELECTRA models are available at Zenodo. [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3971235.svg)](https://doi.org/10.5281/zenodo.3971235)
+* The pre-trained Bio-ELECTRA mid and base sized models are available at Zenodo. [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4699034.svg)](https://doi.org/10.5281/zenodo.4699034)
+* The pre-trained Bio-ELECTRA and Bio-ELECTRA++ small ELECTRA models are available at Zenodo. [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3971235.svg)](https://doi.org/10.5281/zenodo.3971235)
 
 
 

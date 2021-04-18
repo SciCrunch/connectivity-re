@@ -259,10 +259,10 @@ public class PredictionResultPreparer {
     }
 
     public static void prepFullSet4Annotation() throws Exception {
-        String predictionFile = HOME_DIR + "/dev/java/bnlp-re/sparc_predictions.txt";
+        String predictionFile = HOME_DIR + "/dev/java/connectivity-re/sparc_predictions.txt";
         List<Prediction> predictions = filterPredictions(predictionFile, 0.35);
         System.out.println("# filtered predictions: " + predictions.size());
-        String idxXmlFile = HOME_DIR + "/dev/java/bnlp-re/sparc_combined_vocab_idx_11_06_2020.xml";
+        String idxXmlFile = HOME_DIR + "/dev/java/connectivity-re/sparc_combined_vocab_idx_11_06_2020.xml";
         String outIdxXmlFile = "/tmp/sparc_connectivity_predicted_idx.xml";
         prep4Annotation(idxXmlFile, predictions, outIdxXmlFile);
     }
@@ -274,11 +274,11 @@ public class PredictionResultPreparer {
     }
 
     public static void prepActiveLearningIter1AnnotationSet() throws Exception {
-        String predictionFile = HOME_DIR + "/dev/java/bnlp-re/sparc_predictions.txt";
+        String predictionFile = HOME_DIR + "/dev/java/connectivity-re/sparc_predictions.txt";
         List<Prediction> predictions = filterPredictions(predictionFile, 0.45);
         predictions = extractLeastConfident(predictions, 0.005);
         System.out.println("# filtered predictions: " + predictions.size());
-        String idxXmlFile = HOME_DIR + "/dev/java/bnlp-re/sparc_combined_vocab_idx_11_06_2020.xml";
+        String idxXmlFile = HOME_DIR + "/dev/java/connectivity-re/sparc_combined_vocab_idx_11_06_2020.xml";
         // String outIdxXmlFile = "/tmp/sparc_connectivity_predicted_idx.xml";
         String outIdxXmlFile = "/tmp/sparc_connectivity_active_learning_idx.xml";
         prep4Annotation(idxXmlFile, predictions, outIdxXmlFile);

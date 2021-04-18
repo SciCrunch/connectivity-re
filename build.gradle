@@ -51,54 +51,7 @@ allprojects {
     version = "1.0.0"
 }
 
-task buildVocabulary(dependsOn: 'classes', type: JavaExec) {
-    classpath = sourceSets.main.runtimeClasspath
-    main = 'bnlp.re.classifier.ddi.Vocabulary'
-    if (project.hasProperty('pargs')) {
-        args(pargs.split(','))
-    }
-}
 
-
-task trainBaseline(dependsOn: 'classes', type: JavaExec) {
-    classpath = sourceSets.main.runtimeClasspath
-    main = 'bnlp.re.classifier.ddi.DDIBaselineRNNTrainer'
-    if (project.hasProperty('pargs')) {
-        args(pargs.split(','))
-    }
-}
-
-task trainBiLSTM(dependsOn: 'classes', type: JavaExec) {
-    classpath = sourceSets.main.runtimeClasspath
-    main = 'bnlp.re.classifier.ddi.DDIBiLSTMTrainer'
-    if (project.hasProperty('pargs')) {
-        args(pargs.split(','))
-    }
-}
-
-task buildAVVocabulary(dependsOn: 'classes', type: JavaExec) {
-    classpath = sourceSets.main.runtimeClasspath
-    main = 'bnlp.re.classifier.antibody.validation.Vocabulary'
-    if (project.hasProperty('pargs')) {
-        args(pargs.split(','))
-    }
-}
-
-task trainAVRE(dependsOn: 'classes', type: JavaExec) {
-    classpath = sourceSets.main.runtimeClasspath
-    main = 'bnlp.re.classifier.antibody.validation.Trainer'
-    if (project.hasProperty('pargs')) {
-        args(pargs.split(','))
-    }
-}
-
-task trainAVRE2(dependsOn: 'classes', type: JavaExec) {
-    classpath = sourceSets.main.runtimeClasspath
-    main = 'bnlp.re.classifier.antibody.validation.Trainer2'
-    if (project.hasProperty('pargs')) {
-        args(pargs.split(','))
-    }
-}
 
 task runCorpusBuilder(dependsOn: 'classes', type: JavaExec) {
     classpath = sourceSets.main.runtimeClasspath
@@ -116,10 +69,3 @@ task runPMCCorpusBuilder(dependsOn: 'classes', type: JavaExec) {
     }
 }
 
-task runTextBookCorpusBuilder(dependsOn: 'classes', type: JavaExec) {
-    classpath = sourceSets.main.runtimeClasspath
-    main = 'bnlp.re.sparc.TextbookCorpusBuilder'
-    if (project.hasProperty('pargs')) {
-        args(pargs.split(','))
-    }
-}

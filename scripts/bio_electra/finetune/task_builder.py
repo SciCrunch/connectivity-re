@@ -52,40 +52,10 @@ def get_task(config: configure_finetuning.FinetuningConfig, task_name,
     return classification_tasks.QQP(config, tokenizer)
   elif task_name == "sts":
     return classification_tasks.STS(config, tokenizer)
-  elif task_name == "yesno":
-    return classification_tasks.BioYesNo(config, tokenizer)
-  elif task_name == "yesno-snippet":
-    return classification_tasks.BioYesNoSnippet(config, tokenizer)
-  elif task_name == "ynn":
-    return classification_tasks.BioYNN(config, tokenizer)
-  elif task_name == "ynnss":
-      return classification_tasks.BioYNNSubSampled(config, tokenizer)
-  elif task_name == "reranker":
-    return classification_tasks.BioAnswerFinderReranker(config, tokenizer)
-  elif task_name == "weighted-reranker":
-    return classification_tasks.BioAnswerFinderWeightedReranker(config, tokenizer,[1.0, 99.0])
-  elif task_name == "synergy-reranker":
-    return classification_tasks.SynergyReranker(config, tokenizer)
-  elif task_name == "gad":
-    return classification_tasks.BioREGAD(config, tokenizer)
-  elif task_name == "euadr":
-    return classification_tasks.BioREEUADR(config, tokenizer)
-  elif task_name == "chemprot":
-    return classification_tasks.BioREChemProt(config, tokenizer)
-  elif task_name == "attrition":
-    return classification_tasks.Attrition(config, tokenizer)
   elif task_name == 'sparc':
     return classification_tasks.BioRESparc(config, tokenizer)
   elif task_name == 'sparc-multi':
     return classification_tasks.BioRESparcMulti(config, tokenizer)
-  elif task_name == "squad":
-    return qa_tasks.SQuAD(config, tokenizer)
-  elif task_name == "squadv1":
-    return qa_tasks.SQuADv1(config, tokenizer)
-  elif task_name == "bioasq":
-    return qa_tasks.BioASQ(config, tokenizer)
-  elif task_name == "bioasq2":
-    return qa_tasks.BioASQ2(config, tokenizer)
   elif task_name == "newsqa":
     return qa_tasks.NewsQA(config, tokenizer)
   elif task_name == "naturalqs":
@@ -96,15 +66,5 @@ def get_task(config: configure_finetuning.FinetuningConfig, task_name,
     return qa_tasks.SearchQA(config, tokenizer)
   elif task_name == "chunk":
     return tagging_tasks.Chunking(config, tokenizer)
-  elif task_name == "bionlp13pc":
-    return tagging_tasks.BioNLP13PCNER(config, tokenizer)
-  elif task_name == "bc4chemd":
-    return tagging_tasks.BC4CHEMD_NER(config, tokenizer)
-  elif task_name == "bc2gm":
-    return tagging_tasks.BC2GM_NER(config, tokenizer)
-  elif task_name == 'linnaeus':
-    return tagging_tasks.Linnaeus_NER(config, tokenizer)
-  elif task_name == "ncbi-disease":
-    return tagging_tasks.NCBI_Disease_NER(config, tokenizer)
   else:
     raise ValueError("Unknown task " + task_name)

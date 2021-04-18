@@ -82,7 +82,6 @@ class TaggingTask(task.Task):
     return examples
 
   def _get_label_mapping(self, provided_split=None, provided_sentences=None):
-    # import pdb; pdb.set_trace() # IBO
     if self._label_mapping is not None:
       return self._label_mapping
     if tf.io.gfile.exists(self._label_mapping_path):
@@ -253,37 +252,6 @@ class Chunking(TaggingTask):
 
   def __init__(self, config, tokenizer):
     super(Chunking, self).__init__(config, "chunk", tokenizer, False)
-
-# IBO
-
-class BioNLP13PCNER(TaggingTask):
-  """Bio NE tagging."""
-  def __init__(self, config, tokenizer):
-    super(BioNLP13PCNER, self).__init__(config, "bionlp13pc", tokenizer, False)
-
-
-class BC4CHEMD_NER(TaggingTask):
-  """BC4CHEMD NE tagging."""
-  def __init__(self, config, tokenizer):
-    super(BC4CHEMD_NER, self).__init__(config, "bc4chemd", tokenizer, False)
-
-
-class BC2GM_NER(TaggingTask):
-  """BC2GM NE tagging."""
-  def __init__(self, config, tokenizer):
-    super(BC2GM_NER, self).__init__(config, "bc2gm", tokenizer, False)
-
-
-class Linnaeus_NER(TaggingTask):
-  """linnaeus NE tagging."""
-  def __init__(self, config, tokenizer):
-    super(Linnaeus_NER, self).__init__(config, "linnaeus", tokenizer, False)
-
-
-class NCBI_Disease_NER(TaggingTask):
-  """NCBI-disease NE tagging."""
-  def __init__(self, config, tokenizer):
-    super(NCBI_Disease_NER, self).__init__(config, "ncbi-disease", tokenizer, False)
 
 
 

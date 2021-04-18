@@ -103,7 +103,7 @@ class SparcMultiF1Scorer(SentenceLevelScorer):
         super(SparcMultiF1Scorer, self).__init__()
         self.label_2_int_mapper = {'AC': 0, 'FC': 1, 'False': 2}
         self.pos_labels= [0, 1, 2]
-        
+
     def _get_results(self):
         p,r,f,_ = sklearn.metrics.precision_recall_fscore_support(y_pred=self._preds,
                                                                   y_true=self._true_labels,
@@ -120,80 +120,6 @@ class SparcMultiF1Scorer(SentenceLevelScorer):
                 ]
 
 
-
-class ChemprotF1Scorer(SentenceLevelScorer):
-    """Computes micro average F1 for chemprot RE task"""
-    def __init__(self):
-        super(ChemprotF1Scorer, self).__init__()
-        self.label_2_int_mapper = {'CPR:3': 0, 'CPR:4': 1, 'CPR:5':2, 'CPR:6': 3,
-                                   'CPR:9': 4, 'False': 5}
-        self.pos_labels= [0, 1, 2, 3, 4]
-        
-    def _get_results(self):
-        p,r,f,_ = sklearn.metrics.precision_recall_fscore_support(y_pred=self._preds,
-                                                                  y_true=self._true_labels,
-                                                                  labels=self.pos_labels,
-                                                                  average="micro")
-        pr = p * 100
-        recall = r * 100
-        f1 = f * 100
-        return [('precision', pr),
-                ('recall', recall),
-                ('f1', f1),]
-
-
-class YesnoF1Scorer(SentenceLevelScorer):
-  """Computes yesno F1 for classification tasks."""
-
-  def __init__(self):
-    super(YesnoF1Scorer, self).__init__()
-    self._positive_label = 1
-
-  def _get_results(self):
-    n_no_correct, n_no_predicted, n_no_gold = 0, 0, 0
-    n_yes_correct, n_yes_predicted, n_yes_gold = 0, 0, 0
-    for y_true, pred in zip(self._true_labels, self._preds):
-      if y_true == self._positive_label:
-        n_yes_gold += 1
-        if pred == self._positive_label:
-          n_yes_predicted += 1
-          if pred == y_true:
-            n_yes_correct += 1
-        else:
-          n_no_predicted += 1
-      else:
-        n_no_gold += 1
-        if pred == 0:
-          n_no_predicted += 1
-          if pred == y_true:
-              n_no_correct += 1
-        else:
-          n_yes_predicted += 1
-
-    if n_yes_correct == 0:
-      p_yes, r_yes, f1_yes = 0, 0, 0
-    else:
-      p_yes = 100.0 * n_yes_correct / n_yes_predicted
-      r_yes = 100.0 * n_yes_correct / n_yes_gold
-      f1_yes = 2 * p_yes * r_yes / (p_yes + r_yes)
-
-    if n_no_correct == 0:
-      p_no, r_no, f1_no = 0, 0, 0
-    else:
-      p_no = 100.0 * n_no_correct / n_no_predicted
-      r_no = 100.0 * n_no_correct / n_no_gold
-      f1_no = 2 * p_no * r_no / (p_no + r_no)
-    f1 = (f1_yes + f1_no) / 2
-    return [
-        ('precision_yes', p_yes),
-        ('recall_yes', r_yes),
-        ('f1_yes', f1_yes),
-        ('precision_no', p_no),
-        ('recall_no', r_no),
-        ('f1_no', f1_no),
-        ('f1', f1),
-        ('loss', self.get_loss()),
-    ]
 
 class MCCScorer(SentenceLevelScorer):
 

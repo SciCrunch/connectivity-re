@@ -34,7 +34,7 @@ from util import training_utils
 from util import utils
 
 # IBO
-from finetune import  feature_spec
+from finetune import feature_spec
 
 
 EXPORT_MODE = False
@@ -167,7 +167,6 @@ def model_fn_builder(config: configure_finetuning.FinetuningConfig, tasks,
 
 # IBO
 def serving_input_fn_builder(feature_specs):
-    # import pdb; pdb.set_trace()
 
     def serving_input_fn():
         features = collections.OrderedDict()
@@ -241,7 +240,6 @@ class ModelRunner(object):
         input_fn=self._train_input_fn, max_steps=self.train_steps)
 
   def evaluate(self, export_dir=None):
-    # import pdb; pdb.set_trace()  
     return {task.name: self.evaluate_task(task, export_dir=export_dir) for task in self._tasks}
 
   # IBO
@@ -389,8 +387,7 @@ def run_finetuning(config: configure_finetuning.FinetuningConfig,
         for task in tasks:
           # Currently only writing preds for GLUE and SQuAD 2.0 is supported
           if task.name in ["cola", "mrpc", "mnli", "sst", "rte", "qnli", "qqp",
-                           "sts", "yesno", "gad", "chemprot", "sparc", "sparc-multi",
-                           "yesno-snippet"]:
+                           "sts", "sparc", "sparc-multi"]:
             for split in task.get_test_splits():
               model_runner.write_classification_outputs([task], trial, split)
           elif task.name == "squad":

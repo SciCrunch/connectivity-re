@@ -23,8 +23,8 @@ import static bnlp.re.sparc.CleanupUtils.addIEFrames;
 @SuppressWarnings("Duplicates")
 public class ActiveLearningManager {
     public static String HOME_DIR = System.getProperty("user.home");
-    public static String AL_DIR = HOME_DIR + "/dev/java/bnlp-re/data/sparc/base/active_learning/iterations";
-    public static String BASE_DIR = HOME_DIR + "/dev/java/bnlp-re/data/sparc/base/active_learning";
+    public static String AL_DIR = HOME_DIR + "/dev/java/connectivity-re/data/sparc/base/active_learning/iterations";
+    public static String BASE_DIR = HOME_DIR + "/dev/java/connectivity-re/data/sparc/base/active_learning";
 
 
     public static void merge(List<String> curatedList,
@@ -267,7 +267,7 @@ public class ActiveLearningManager {
 
 
     public static void prepareActiveLearningInitialCorpus() throws Exception {
-        String rootDir = HOME_DIR + "/dev/java/bnlp-re/data/sparc";
+        String rootDir = HOME_DIR + "/dev/java/connectivity-re/data/sparc";
         String inCorpusIdxXmlFile = rootDir + "/sparc_connectivity_nerve_ganglia_corpus_idx.xml";
         List<String> excludeList = new ArrayList<>();
         excludeList.add(rootDir + "/base/sparc_connectivity_nerve_ganglia_sampled_idx_joe_full.xml");
@@ -278,7 +278,7 @@ public class ActiveLearningManager {
     }
 
     public static void prepIter1() throws Exception {
-        String rootDir = HOME_DIR + "/dev/java/bnlp-re/data/sparc";
+        String rootDir = HOME_DIR + "/dev/java/connectivity-re/data/sparc";
         String startCorpusIdxXmlFile = rootDir + "/base/active_learning/start_corpus_idx.xml";
         String predInTSVFile = rootDir + "/base/active_learning/iterations/iter_1_pred_in.tsv";
         prepareTSVFile4Prediction(startCorpusIdxXmlFile, predInTSVFile);

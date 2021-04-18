@@ -1,11 +1,11 @@
 package bnlp.re.sparc;
 
 import bnlp.common.CharSetEncoding;
-import bnlp.common.index.*;
-import bnlp.nlp.sbt.SentenceBoundaryClassifierFactory;
-import bnlp.nlp.sbt.SentenceBoundaryDetector;
+import bnlp.common.index.DocumentInfo;
+import bnlp.common.index.FileInfo;
+import bnlp.common.index.SentenceInfo;
+import bnlp.common.index.TextInfo;
 import bnlp.re.common.PhraseLookupManager;
-import bnlp.re.common.Span;
 import bnlp.re.common.Tokenizer;
 import bnlp.re.jats.ArticleInfo;
 import bnlp.re.jats.SectionInfo;
@@ -128,10 +128,13 @@ public class PMCCorpusBuilder extends BaseCorpusBuilder {
                 .desc("the full path to the PMC OAI corpus root dir").build();
         Option outIdxXmlFileOpt = Option.builder("o").required().hasArg().argName("outIdxXmlFile")
                 .desc("the full path for the index XML file to be written").build();
+        Option vocabFileOpt = Option.builder("v").required().hasArg().argName("vocabFilePath")
+                .desc("the full path fdr the vocabulary file").build();
         Options options = new Options();
         options.addOption(help);
         options.addOption(corpusDirOpt);
         options.addOption(outIdxXmlFileOpt);
+        options.addOption(vocabFileOpt);
 
         CommandLineParser cli = new DefaultParser();
         CommandLine line = null;
@@ -146,8 +149,10 @@ public class PMCCorpusBuilder extends BaseCorpusBuilder {
         }
         String corpusDir = line.getOptionValue("d");
         String outIdxXmlFile = line.getOptionValue("o");
-        String HOME_DIR = System.getProperty("user.home");
-        String vocabFile = HOME_DIR + "/dev/java/bnlp-re/data/sparc/sparc_vocabulary_combined.txt";
+        // String HOME_DIR = System.getProperty("user.home");
+        String vocabFile = line.getOptionValue("v");
+        // String vocabFile = HOME_DIR + "/dev/java/bnlp-re/data/sparc/sparc_vocabulary_combined.txt";
+
         String[] vocabulary = FileUtils.readLines(vocabFile, true, CharSetEncoding.UTF8);
         PhraseLookupManager plm = new PhraseLookupManager(Arrays.asList(vocabulary), true,
                 new Tokenizer());

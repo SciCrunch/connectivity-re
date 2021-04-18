@@ -151,7 +151,7 @@ public class NerveGangliaFilter {
 
     public static void main(String[] args) throws Exception {
         String HOME_DIR = System.getProperty("user.home");
-        String vocabFile = HOME_DIR + "/dev/java/bnlp-re/scripts/nerve_ganglia_vocab.txt";
+        String vocabFile = HOME_DIR + "/dev/java/connectivity-re/scripts/nerve_ganglia_vocab.txt";
         String[] vocabulary = FileUtils.readLines(vocabFile, true, CharSetEncoding.UTF8);
         PhraseLookupManager plm = new PhraseLookupManager(Arrays.asList(vocabulary), true,
                 new Tokenizer());
@@ -159,11 +159,11 @@ public class NerveGangliaFilter {
 
 
         String inIdxXmlFile = "/tmp/sparc_connectivity_predicted_idx.xml";
-        inIdxXmlFile = HOME_DIR + "/dev/java/bnlp-re/sparc_combined_vocab_idx_11_06_2020.xml";
+        inIdxXmlFile = HOME_DIR + "/dev/java/connectivity-re/sparc_combined_vocab_idx_11_06_2020.xml";
         String outIdxXmlFile = "/tmp/sparc_connectivity_nerve_ganglia_idx.xml";
       //  applyFilter(inIdxXmlFile, outIdxXmlFile, filter);
       //  filter.showStats();
-        String excludeIdxXmlFile = HOME_DIR + "/dev/java/bnlp-re/data/sparc/base/sparc_connectivity_nerve_ganglia_sampled_idx_joe_full.xml";
+        String excludeIdxXmlFile = HOME_DIR + "/dev/java/connectivity-re/data/sparc/base/sparc_connectivity_nerve_ganglia_sampled_idx_joe_full.xml";
         String randomSampleIdxXmlFile = "/tmp/sparc_connectivity_nerve_ganglia_random_set_idx.xml";
         CleanupUtils.doSimpleRandomSample(outIdxXmlFile, randomSampleIdxXmlFile, excludeIdxXmlFile, 250);
 
