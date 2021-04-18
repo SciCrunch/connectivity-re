@@ -28,6 +28,6 @@ source $CONNECTIVITY_RE_HOME/venv/bin/activate
 
 cp $PRED_IN_TSV_FILE $DATA_DIR/finetuning_data/sparc-multi/test.tsv
 
-python run_finetuning.py --predict --data-dir $DATA_DIR --model-name bio_electra_base_1_2M --hparams '{"model_size": "base", "task_names": ["sparc-multi"], "max_seq_length":128, "train_batch_size":16, "use_tfrecords_if_existing": false, "vocab_file": "'"$CONNECTIVITY_RE_HOME"'/scripts/bio_electra/data/pmc_2017_abstracts_wp_vocab_sorted.txt", "vocab_size": 31620, "num_trials": 1, "write_test_outputs": true, "n_writes_test": 1}'
+python run_finetuning.py --predict --data-dir $DATA_DIR --model-name bio_electra_base --hparams '{"model_size": "base", "task_names": ["sparc-multi"], "max_seq_length":128, "train_batch_size":16, "use_tfrecords_if_existing": false, "vocab_file": "'"$CONNECTIVITY_RE_HOME"'/scripts/bio_electra/data/pmc_2017_abstracts_wp_vocab_sorted.txt", "vocab_size": 31620, "num_trials": 1, "write_test_outputs": true, "n_writes_test": 1}'
 
 python sparc_multi_add_scores.py -i $PRED_IN_TSV_FILE -o $PRED_OUT_FILE

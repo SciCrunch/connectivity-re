@@ -1,8 +1,15 @@
-
 # Connectivity-RE
 
 ```bash
-export CONNECTIVITY_RE_HOME=/full/path/to/bio_electra/repository
+export CONNECTIVITY_RE_HOME=/full/path/to/connectivity_re/repository
+```
+
+### Building Java code for data preparation
+* You need Java 1.8+ and Gradle build system for the Java portion of the code.
+
+```bash
+cd $CONNECTIVITY_RE_HOME
+gradle clean install
 ```
 
 ### GPU requirements
@@ -20,7 +27,7 @@ sudo apt-get install python3-venv
 python3 -m venv --system-site-packages $CONNECTIVITY_RE_HOME/venv
 ```
 
-```
+```bash
 source $CONNECTIVITY_RE_HOME/venv/bin/activate
 
 pip install --upgrade pip
@@ -35,10 +42,4 @@ pip install hyperopt
 
 * The pre-trained Bio-ELECTRA mid and base sized models are available at Zenodo. [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4699034.svg)](https://doi.org/10.5281/zenodo.4699034)
 * The pre-trained Bio-ELECTRA and Bio-ELECTRA++ small ELECTRA models are available at Zenodo. [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3971235.svg)](https://doi.org/10.5281/zenodo.3971235)
-
-
-
-## Datasets
-All of the datasets are available at `$CONNECTIVITY_RE_HOME/electra/data/finetuning_data`. 
-
 
