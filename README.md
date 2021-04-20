@@ -1,7 +1,7 @@
 # Connectivity-RE
 
 Code/corpus repository for the Autonomic nervous system (ANS) connectivity extraction. For more details, see 
-"Detecting Anatomical and Functional Connectivity Relations in Biomedical Literature via Language Representation Models" to appear at SDP2021 @@ NAACL-HLT 2021.
+"Detecting Anatomical and Functional Connectivity Relations in Biomedical Literature via Language Representation Models" to appear at SDP2021@NAACL-HLT 2021.
 
 ```bash
 export CONNECTIVITY_RE_HOME=/full/path/to/connectivity_re/repository
